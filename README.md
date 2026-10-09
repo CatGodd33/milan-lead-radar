@@ -23,11 +23,12 @@ El funcionamiento normal es gratuito usando los minutos incluidos de GitHub Acti
 2. En **Settings → Secrets and variables → Actions**, crea:
    - `GMAIL_USER`: cuenta Gmail que enviará los avisos.
    - `GMAIL_APP_PASSWORD`: contraseña de aplicación de Google de 16 caracteres. No uses la contraseña normal.
+   - `ALERT_TO`: dirección en la que quieres recibir los avisos.
 3. Para obtenerla, activa la verificación en dos pasos de Google y crea una contraseña de aplicación.
 4. En **Settings → Pages → Source**, selecciona **GitHub Actions**.
 5. Abre **Actions → Buscar nuevos negocios → Run workflow** para hacer la primera búsqueda.
 
-Los avisos se envían a `cncatt.09@gmail.com`, configurado en `config.json` y en el workflow.
+La dirección receptora se guarda únicamente como secreto `ALERT_TO`; no aparece en el repositorio público.
 
 ## Ejecución local
 
@@ -56,4 +57,3 @@ Edita `config.json` para cambiar:
 - Instagram, Facebook y Google Maps restringen la extracción automatizada; el radar conserva enlaces públicos encontrados, pero no intenta evadir esas restricciones.
 - Algunos artículos no muestran teléfono o dirección. Esos prospectos siguen apareciendo, señalados para investigación o visita presencial.
 - Antes de realizar campañas masivas, respeta RGPD y normas anti-spam. El email automático del sistema se envía solo al propietario del radar, no a los negocios.
-

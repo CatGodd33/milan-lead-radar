@@ -22,7 +22,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          ALERT_TO: cncatt.09@gmail.com
+          ALERT_TO: ${{ secrets.ALERT_TO }}
         run: python src/radar.py
       - name: Guardar nuevos datos
         run: |
@@ -31,4 +31,3 @@ jobs:
           git add data docs/leads.json
           git diff --cached --quiet || git commit -m "data: actualizar prospectos"
           git push
-

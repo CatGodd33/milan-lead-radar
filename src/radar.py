@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
 CONFIG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
-USER_AGENT = "MilanLeadRadar/1.0 (small-business research; contact: cncatt.09@gmail.com)"
+USER_AGENT = "MilanLeadRadar/1.0 (public small-business research project)"
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "it-IT,it;q=0.9,en;q=0.7"})
 
@@ -271,9 +271,9 @@ def render_email(leads: list[dict[str, Any]], dashboard_url: str) -> tuple[str, 
 def send_email(leads: list[dict[str, Any]]) -> None:
     user = os.getenv("GMAIL_USER", "")
     password = os.getenv("GMAIL_APP_PASSWORD", "")
-    recipient = os.getenv("ALERT_TO", CONFIG["recipient_email"])
-    if not leads or not user or not password:
-        print("Email omitido: no hay prospectos nuevos o faltan secretos GMAIL_USER/GMAIL_APP_PASSWORD.")
+    recipient = os.getenv("ALERT_TO", CONFIG.get("recipient_email", ""))
+    if not leads or not user or not password or not recipient:
+        print("Email omitido: no hay prospectos nuevos o faltan secretos GMAIL_USER/GMAIL_APP_PASSWORD/ALERT_TO.")
         return
     repo = os.getenv("GITHUB_REPOSITORY", "")
     dashboard_url = os.getenv("DASHBOARD_URL", f"https://{repo.split('/')[0]}.github.io/{repo.split('/')[-1]}/" if "/" in repo else "")

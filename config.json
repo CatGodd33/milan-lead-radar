@@ -1,7 +1,7 @@
 {
   "city": "Milano",
   "country": "Italia",
-  "recipient_email": "cncatt.09@gmail.com",
+  "recipient_email": "",
   "max_age_days": 75,
   "max_results_per_query": 20,
   "max_email_leads": 15,
@@ -17,4 +17,3 @@
     "Milano nuova attività commerciale inaugurazione"
   ]
 }
-
