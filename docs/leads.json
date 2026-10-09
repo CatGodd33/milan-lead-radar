@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:10:27+00:00",
+  "updated_at": "2026-10-09T21:41:11+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891995,
-      "lon": 9.1864028,
+      "lat": 45.4891391,
+      "lon": 9.1868221,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4715215,
-      "lon": 9.1840827,
+      "lat": 45.4707892,
+      "lon": 9.1844383,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -194,6 +194,31 @@
         "primera sede fuera de Romaña",
         "zona Bocconi y Navigli",
         "talleres y consumo recurrente"
+      ],
+      "status": "Nuevo"
+    },
+    {
+      "id": "423829402bfbc48e",
+      "name": "due nuovi locali (più uno a Lisbona)",
+      "category": "Bar / Cafeteria",
+      "score": 80,
+      "published": "2026-10-01",
+      "found_at": "2026-10-09T21:41:11+00:00",
+      "source": "MilanoToday",
+      "title": "C’è un brasiliano che sta conquistando la Milano del caffè specialty: Cafezal apre due nuovi locali (più uno a Lisbona) - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHgxQkFhenAtTGxJZklDVGd6OWtWQWpVaGRvU200aDgtcm9zakFKWDZLdEZZWER3bkl2X0VUMGtmZl8zX1lkeEVFLWVFeXZESE91WE43bTdQU1F0S2VkOTZpa2lQWmNDdmExUEVEYUhrSHhYZEE5SzFqMUtaTzBHZXRNd0NaOUwxVzdhRUNraDA?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "opener": "He visto la apertura de due nuovi locali (più uno a Lisbona). Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "publicación de los últimos 14 días",
+        "señal explícita de apertura",
+        "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
     },
@@ -298,6 +323,31 @@
       "instagram": [],
       "recommended_service": "menú QR + fidelización digital",
       "opener": "He visto que suo primo ristorante italiano (in via Dante) acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "publicación del último mes",
+        "señal explícita de apertura",
+        "sector ideal: ristorante"
+      ],
+      "status": "Nuevo"
+    },
+    {
+      "id": "67c00925d3d4c74f",
+      "name": "suo primo ristorante di sole alette di pollo in Italia",
+      "category": "Ristorante",
+      "score": 70,
+      "published": "2026-09-07",
+      "found_at": "2026-10-09T21:41:11+00:00",
+      "source": "MilanoToday",
+      "title": "Joe Bastianich apre il suo primo ristorante di sole alette di pollo in Italia a Milano (assieme a suo figlio) - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fR20wbFJuQVRVWkNrVEYtZzUzVGVpd196Zld6ekVLdDRQTDBHY2htRVFoUEtsNjZGYnd5T1l1ZDZyMjBIZzl4czhiUl9MM0l0QndKZDJ3ejN5VGNMVDRCeE5GbVYzcldmMUpNRk83MVZtMVlERVo4TVBrMnBTUQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "opener": "He visto que suo primo ristorante di sole alette di pollo in Italia acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
       "reasons": [
         "publicación del último mes",
         "señal explícita de apertura",
@@ -419,6 +469,30 @@
       "instagram": [],
       "recommended_service": "web rápida + fidelización digital",
       "opener": "He visto que stabilmente a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "publicación de los últimos 14 días",
+        "señal explícita de apertura"
+      ],
+      "status": "Nuevo"
+    },
+    {
+      "id": "0001bcd8fda8a670",
+      "name": "i concerti \"poveri free",
+      "category": "Otro negocio local",
+      "score": 60,
+      "published": "2026-09-29",
+      "found_at": "2026-10-09T21:41:11+00:00",
+      "source": "Secolo d'Italia",
+      "title": "Mengoni inaugura a Milano i concerti \"poveri free\": biglietti da 200 euro, niente hit e cellulari sigillati - Secolo d'Italia",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzd4OUZDUWVvN2pfdjQ5Wk9sd1hjSzJ4UXF0VVJlYmFXaTZkWHJyQzdKa3IwOVdZUEg0TzBEb3ZhOFhTUTFWMHRDcWdZM25mcmt5T2RnTU1HQ2tlbUhHS2pTQXRPc1ozVXowLXlvTHJCWEZGWmZRMGpkTEVmYzltTkNSYV9iY3lFTFp4WXFtZW5RWG81QmJWUDZiQkdfVU43Rk9tM0xYMFVnZE5ReW5INUhNWENqdjBiSnMwUFg5TWp4azdLLVc4bGRJQUZ3MllBOUV5YnRiVXc?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "opener": "He visto que i concerti \"poveri free es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "publicación de los últimos 14 días",
         "señal explícita de apertura"
