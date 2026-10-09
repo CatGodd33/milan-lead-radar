@@ -1,0 +1,20 @@
+{
+  "city": "Milano",
+  "country": "Italia",
+  "recipient_email": "cncatt.09@gmail.com",
+  "max_age_days": 75,
+  "max_results_per_query": 20,
+  "max_email_leads": 15,
+  "minimum_score": 35,
+  "queries": [
+    "Milano nuova apertura ristorante",
+    "Milano inaugura ristorante",
+    "Milano nuova apertura bar caffetteria bakery gelateria",
+    "Milano nuova apertura parrucchiere salone barber",
+    "Milano nuovo centro estetico nails beauty",
+    "Milano nuova apertura bubble tea street food",
+    "Milano apre enoteca pizzeria pasticceria",
+    "Milano nuova attività commerciale inaugurazione"
+  ]
+}
+

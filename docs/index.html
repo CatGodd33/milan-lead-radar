@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Milano Lead Radar</title>
+  <meta name="description" content="Panel automático de nuevos negocios y prospectos en Milán">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">RADAR COMERCIAL · MILANO</p>
+      <h1>Nuevos negocios,<br><span>antes que nadie.</span></h1>
+      <p class="subtitle">Restauración, belleza y comercios locales detectados y priorizados automáticamente.</p>
+    </div>
+    <div class="pulse"><i></i><span>Radar activo</span></div>
+  </header>
+
+  <main>
+    <section class="metrics" aria-label="Resumen">
+      <article><span id="total">—</span><small>Prospectos</small></article>
+      <article><span id="hot">—</span><small>Alta prioridad</small></article>
+      <article><span id="recent">—</span><small>Últimos 14 días</small></article>
+      <article><span id="contactable">—</span><small>Con contacto</small></article>
+    </section>
+
+    <section class="toolbar">
+      <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Buscar negocio, zona o categoría…"></label>
+      <select id="category" aria-label="Categoría"><option value="">Todas las categorías</option></select>
+      <select id="priority" aria-label="Prioridad">
+        <option value="0">Cualquier prioridad</option>
+        <option value="75">Alta: 75+</option>
+        <option value="55">Media: 55+</option>
+      </select>
+      <button id="toggleMap" class="secondary">Ver mapa</button>
+    </section>
+
+    <section id="mapWrap" class="map-wrap hidden"><div id="map"></div></section>
+
+    <div class="section-heading">
+      <div><p class="eyebrow">OPORTUNIDADES</p><h2>Prospectos encontrados</h2></div>
+      <p id="updated">Actualizando…</p>
+    </div>
+    <section id="leads" class="lead-grid" aria-live="polite"></section>
+    <p id="empty" class="empty hidden">No hay resultados con estos filtros.</p>
+  </main>
+
+  <footer>Milano Lead Radar · Datos públicos · OpenStreetMap</footer>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
+
