@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 6,17 * * *"
   workflow_dispatch:
+    inputs:
+      email_latest:
+        description: "Enviar un resumen de prueba con los prospectos actuales"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,7 +29,7 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ALERT_TO: ${{ secrets.ALERT_TO }}
-        run: python src/radar.py
+        run: python src/radar.py ${{ inputs.email_latest == true && '--email-latest' || '' }}
       - name: Guardar nuevos datos
         run: |
           git config user.name "milan-lead-radar[bot]"

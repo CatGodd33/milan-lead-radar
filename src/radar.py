@@ -299,6 +299,7 @@ def write_dashboard_data(leads: list[dict[str, Any]], last_run: str) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-email", action="store_true")
+    parser.add_argument("--email-latest", action="store_true", help="Envía un resumen de prueba aunque no haya prospectos nuevos")
     args = parser.parse_args()
     state = load_json(DATA / "state.json", {"seen": [], "last_run": None})
     existing = load_json(DATA / "leads.json", [])
@@ -343,7 +344,7 @@ def main() -> int:
     write_dashboard_data(all_leads, last_run)
     print(f"Detectados {len(candidates)} artículos; {len(new_leads)} prospectos nuevos; {len(all_leads)} totales.")
     if not args.no_email:
-        send_email(new_leads)
+        send_email(all_leads[: CONFIG["max_email_leads"]] if args.email_latest else new_leads)
     return 0
 
 
