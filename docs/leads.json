@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T08:49:56+00:00",
+  "updated_at": "2026-10-09T09:10:27+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -208,8 +208,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -618,6 +618,30 @@
       "instagram": [],
       "recommended_service": "web rápida + fidelización digital",
       "opener": "He visto que Mare con terrazza su piazza Duomo a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "publicación del último mes",
+        "señal explícita de apertura"
+      ],
+      "status": "Nuevo"
+    },
+    {
+      "id": "1d23b98b149cf777",
+      "name": "osteopata",
+      "category": "Otro negocio local",
+      "score": 50,
+      "published": "2026-09-22",
+      "found_at": "2026-10-09T09:10:27+00:00",
+      "source": "MilanoToday",
+      "title": "Butter burger: lo smash con un panetto di burro dentro. A Milano il primo locale lo apre un osteopata - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVR2Sy1JV3J1b3k4OFludTVseTVBY2JicTVFZVNlMFpINFR0cmJHYWJMTHZ2cGZTNk00aTFUQTVBMWVNMWIyVHd4QjFjbGU5RTNnakFneF9ackRlN0VEcXhxMXNGMWVTR2g0a0U2cnVCdTRVd19yNFBOMHVjS0xmVVUxNURTNDJqckRmU3lpQThUbm1BY281LWx4THl5RmF2SHlWLQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "opener": "He visto que osteopata es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "publicación del último mes",
         "señal explícita de apertura"
