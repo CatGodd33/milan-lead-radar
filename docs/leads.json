@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:32:07+00:00",
+  "updated_at": "2026-10-10T20:34:09+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4719812,
-      "lon": 9.1839534,
+      "lat": 45.4707892,
+      "lon": 9.1844383,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -352,6 +352,30 @@
         "publicación del último mes",
         "señal explícita de apertura",
         "sector ideal: ristorante"
+      ],
+      "status": "Nuevo"
+    },
+    {
+      "id": "1238e8d5f0e8fce7",
+      "name": "alle porte di Milano e assume",
+      "category": "Otro negocio local",
+      "score": 60,
+      "published": "2026-10-09",
+      "found_at": "2026-10-10T20:34:09+00:00",
+      "source": "MilanoToday",
+      "title": "Un nuovo supermercato apre alle porte di Milano e assume: le posizioni e come inviare il cv - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWJWZ3hUWUd3eXpaUDlmOVRCWmg2V284djgxb0pkTGJ2NnhkUk1wZE9TZU1IN1lKUjJFak5iTVJDdV9aUjd0UFhyRl9FZlpoRUFNNFhVTm9PdkhTX3dXVTZBSWhjNVBBUVR6NDluWEFacTJUYl9VUUR1TF9rWDF2Z2hUb1MwbkVKeHlNQWkwRDZVVmlWWWc?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "opener": "He visto que alle porte di Milano e assume es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "publicación de los últimos 14 días",
+        "señal explícita de apertura"
       ],
       "status": "Nuevo"
     },
