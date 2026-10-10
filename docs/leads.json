@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:41:11+00:00",
+  "updated_at": "2026-10-10T12:32:07+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4719812,
+      "lon": 9.1839534,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -233,8 +233,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -421,6 +421,30 @@
       "instagram": [],
       "recommended_service": "web rápida + fidelización digital",
       "opener": "He visto que Lunghissima coda a Milano per l'apertura di Bukies es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "publicación de los últimos 14 días",
+        "señal explícita de apertura"
+      ],
+      "status": "Nuevo"
+    },
+    {
+      "id": "10246532c1bd4148",
+      "name": "l'atteso Bukies di Piero Armenti e Jana",
+      "category": "Otro negocio local",
+      "score": 60,
+      "published": "2026-10-05",
+      "found_at": "2026-10-10T12:32:07+00:00",
+      "source": "Secret Milano",
+      "title": "«Il vero sapore di New York»: apre a Milano l'atteso Bukies di Piero Armenti e Jana, smashburger artigianali da 10 euro - Secret Milano",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iS01JN2ExQzRFRTVPOWdqM3NyOVR5RjhxZlloWERHLVVWS2NTSGxHbTFMVjBZdnM5Qjl2U3pDQXg0VzJfSzNyWTgyYjAyRmJPdDNBT0FVN0JQdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "opener": "He visto que l'atteso Bukies di Piero Armenti e Jana es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "publicación de los últimos 14 días",
         "señal explícita de apertura"
