@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4707892,
-    "lon": 9.1844383,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -295,6 +295,31 @@
     "instagram": [],
     "recommended_service": "menú QR + fidelización digital",
     "opener": "He visto que Dove mangiare a Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "publicación del último mes",
+      "señal explícita de apertura",
+      "sector ideal: ristorante"
+    ],
+    "status": "Nuevo"
+  },
+  {
+    "id": "08e5b9f1afe02718",
+    "name": "ora a Milano",
+    "category": "Ristorante",
+    "score": 70,
+    "published": "2026-09-12",
+    "found_at": "2026-10-11T12:50:06+00:00",
+    "source": "MilanoToday",
+    "title": "Un ristorante cult della New York Anni ‘80 apre ora a Milano - MilanoToday",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPczRMYjFsQVhCRWhEYVJXa2dMWXAwcnRuRFVTV210eDE5MW51a1ExcUVYel9kYlR4aXlBOEU5bEZBUkxxYk1sQmQ5UDJwNThKbFhpS09MTTg1eFRnbnJYWWhlRllpNXBYM0VnVnJhRnV3anh6dDlGWmhURGU5UUJ1Ng?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "opener": "He visto que ora a Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
     "reasons": [
       "publicación del último mes",
       "señal explícita de apertura",
@@ -814,6 +839,31 @@
     "reasons": [
       "publicación del último mes",
       "señal explícita de apertura"
+    ],
+    "status": "Nuevo"
+  },
+  {
+    "id": "b3bb5dbefe24f9da",
+    "name": "oggi il quarto locale a Milano",
+    "category": "Otro negocio local",
+    "score": 47,
+    "published": "2026-08-19",
+    "found_at": "2026-10-11T12:50:06+00:00",
+    "source": "L’Express Franchise",
+    "title": "Frankie's apre oggi il quarto locale a Milano: scopri dove - L’Express Franchise",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTlTWm5OTk9mNVVGRW5URk9ZOHVDUk03ZDBqcHB2NmZTWnJ6QkhJZjBVQ1FIVmZXSWFGR2Vxd1YwSk14NHN1YU1XZDRLVzlieG9PS3RIZHR0RWR0SUlWOGkzNFY5QWtoVWotUzlzVXRlcUtsMURiMzZwQzZ4S1BJbDczZ2h1WVFlVjhIV3BMUGUwLVk?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "opener": "He visto que oggi il quarto locale a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "publicación reciente",
+      "señal explícita de apertura",
+      "lenguaje de apertura inmediata"
     ],
     "status": "Nuevo"
   },
