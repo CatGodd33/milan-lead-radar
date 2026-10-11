@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4715215,
-    "lon": 9.1840827,
+    "lat": 45.4707892,
+    "lon": 9.1844383,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -230,8 +230,8 @@
     "title": "Nuova trattoria in Porta Romana",
     "url": "https://www.trattoriatina.it/",
     "address": "Via Altaguardia 16, Milano",
-    "lat": 45.4502387,
-    "lon": 9.1996247,
+    "lat": 45.4490086,
+    "lon": 9.2000489,
     "emails": [
       "info@trattoriatina.it"
     ],
@@ -570,6 +570,31 @@
     "status": "Nuevo"
   },
   {
+    "id": "0b984620cf19d356",
+    "name": "Il supermercatino più pazzo di Milano ha appena aperto",
+    "category": "Otro negocio local",
+    "score": 60,
+    "published": "2026-09-12",
+    "found_at": "2026-10-11T20:58:13+00:00",
+    "source": "MilanoToday",
+    "title": "Il supermercatino più pazzo di Milano ha appena aperto (smontando in diretta un tonno da 200 chili) - MilanoToday",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KalRYNXpwN1F2TjhrTTh3TWl0U0J3U25wZVN4MGh3VkcxUElaSkxFQ1VVX2hEMjI0SWVHQVNldjhncWd5NkF1ZWkyXzJ5bF9aYnk4YTIyY1ctMWliV3dJQlNXZlFuMms2YWpNdkdxSU1rUzg?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "opener": "He visto que Il supermercatino più pazzo di Milano ha appena aperto es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "publicación del último mes",
+      "señal explícita de apertura",
+      "lenguaje de apertura inmediata"
+    ],
+    "status": "Nuevo"
+  },
+  {
     "id": "13612979a4ba9267",
     "name": "L'invasione dei bar «normali» a Milano",
     "category": "Bar / Cafeteria",
@@ -786,6 +811,30 @@
     "instagram": [],
     "recommended_service": "web rápida + fidelización digital",
     "opener": "He visto que osteopata es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "publicación del último mes",
+      "señal explícita de apertura"
+    ],
+    "status": "Nuevo"
+  },
+  {
+    "id": "8e93d62c200defb8",
+    "name": "A Milano ha aperto una nuova casa di quartiere",
+    "category": "Otro negocio local",
+    "score": 50,
+    "published": "2026-09-17",
+    "found_at": "2026-10-11T20:58:13+00:00",
+    "source": "MilanoToday",
+    "title": "A Milano ha aperto una nuova casa di quartiere: cosa c'è dentro e come iscriversi ai corsi gratuiti - MilanoToday",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0RaY1B2b2ppdXlhRkk4STJJekVlTVNfNFk5dTJ1eS1NVlhCd19kZ3NfZUhCR0hGWGJTbzNPN1ZNRHJVVS1UbnVkY1FlMVhDS19mWGI3MWU1VmFlaGxadEtfNmV5LUFlNEszVGpCSEpBSXlYSnRoZFd2RnJGbHQ2X0cxWU43ZVdRb0RLT3o0ZVBPVllwTjNfdnpKbk5FbWFheHh6eUVYbEUwNllSbTBWYWVTSXhrdF9wZHlqdlNwbmM0OU1BY09fQ1A0M09Uc0wyMVlxSm1oaw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "opener": "He visto que A Milano ha aperto una nuova casa di quartiere es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
     "reasons": [
       "publicación del último mes",
       "señal explícita de apertura"
