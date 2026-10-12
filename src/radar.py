@@ -35,14 +35,19 @@ SESSION.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "it-IT,it;q
 CATEGORIES = {
     "Ristorante": ["ristorante", "trattoria", "osteria", "pizzeria", "cucina", "restaurant"],
     "Bar / Cafeteria": ["bar", "caffè", "caffe", "caffetteria", "bakery", "brunch", "pasticceria", "gelateria", "enoteca", "cocktail"],
-    "Peluquería": ["parrucchiere", "salone", "hair", "barber", "barbiere", "capelli"],
-    "Belleza": ["centro estetico", "beauty", "nails", "unghie", "spa", "skincare", "benessere"],
+    "Peluquería": ["parrucchiere", "salone", "hair", "barber", "barbiere", "capelli", "acconciature"],
+    "Belleza": ["centro estetico", "beauty", "nails", "nail", "unghie", "spa", "skincare", "benessere", "massaggi", "massaggio", "lash", "brow", "estetista"],
     "Bubble tea / Street food": ["bubble tea", "street food", "wok", "poke", "fast casual"]
 }
 
 HIGH_INTENT = ["nuova apertura", "nuove aperture", "apertura", "apre", "aperto", "inaugura", "inaugurazione", "debutta", "arriva a milano"]
 RECENT_WORDS = ["oggi", "domani", "questa settimana", "nei giorni scorsi", "appena aperto", "recentemente"]
 CHAIN_WORDS = ["dior", "armani", "starbucks", "mcdonald", "esselunga", "hotel", "gruppo internazionale"]
+MONTHS = {
+    "gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4, "maggio": 5, "giugno": 6,
+    "luglio": 7, "agosto": 8, "settembre": 9, "ottobre": 10, "novembre": 11, "dicembre": 12,
+}
+OPENING_CONTEXT = ["apre", "aperto", "aperta", "apertura", "inaugura", "inaugurazione", "debutta"]
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -162,23 +167,106 @@ def extract_address(text: str) -> str:
     return "Milano"
 
 
-def score_lead(text: str, published: datetime, contacts: dict[str, Any]) -> tuple[int, list[str]]:
+def opening_recency(text: str, published: datetime, now: datetime | None = None) -> dict[str, Any]:
+    """Estimate the opening date from the article, not only its publication date."""
+    now = now or datetime.now(timezone.utc)
+    lowered = clean(text).lower()
+    published = published.astimezone(timezone.utc)
+    article_age = max(0, (now.date() - published.date()).days)
+
+    relative = [
+        (r"\b(?:apre|inaugura|inaugurazione)\s+oggi\b|\boggi\s+(?:apre|inaugura)\b", 0, "abre hoy", "alta"),
+        (r"\b(?:ha\s+)?aperto\s+ieri\b|\bieri\s+(?:ha\s+)?(?:aperto|inaugurato)\b", 1, "abrió ayer", "alta"),
+        (r"\b(?:appena\s+apert[oa]|nuovissima apertura|ha appena aperto)\b", article_age, "acaba de abrir", "alta"),
+        (r"\b(?:questa settimana|nei giorni scorsi|pochi giorni fa)\b", min(article_age + 3, 7), "abrió hace pocos días", "media"),
+        (r"\b(?:un mese fa|scorso mese|mese scorso)\b", 30, "abrió hace alrededor de un mes", "alta"),
+        (r"\b(?:due mesi fa|2 mesi fa)\b", 60, "abrió hace alrededor de dos meses", "alta"),
+    ]
+    for pattern, days, label, confidence in relative:
+        if re.search(pattern, lowered):
+            return {"days": days, "label": label, "confidence": confidence, "evidence": "expresión temporal"}
+
+    month_names = "|".join(MONTHS)
+    date_pattern = rf"\b(?:il\s+)?(\d{{1,2}})\s+({month_names})(?:\s+(20\d{{2}}))?\b"
+    for match in re.finditer(date_pattern, lowered):
+        window = lowered[max(0, match.start() - 70):match.end() + 35]
+        if not any(has_term(window, word) for word in OPENING_CONTEXT):
+            continue
+        day, month = int(match.group(1)), MONTHS[match.group(2)]
+        year = int(match.group(3)) if match.group(3) else published.year
+        try:
+            opening = datetime(year, month, day, tzinfo=timezone.utc)
+        except ValueError:
+            continue
+        # A December article mentioning January usually refers to the next year.
+        if not match.group(3) and (opening - published).days < -300:
+            opening = opening.replace(year=year + 1)
+        days = (now.date() - opening.date()).days
+        return {"days": days, "label": f"fecha de apertura detectada: {opening.date().isoformat()}", "confidence": "alta", "evidence": match.group(0)}
+
+    strong = any(has_term(lowered, word) for word in ["nuova apertura", "inaugura", "inaugurazione", "debutta"])
+    if strong:
+        return {"days": article_age, "label": "apertura asociada a la noticia reciente", "confidence": "media", "evidence": "señal explícita de apertura"}
+    return {"days": None, "label": "fecha de apertura no confirmada", "confidence": "baja", "evidence": "sin fecha verificable"}
+
+
+def commercial_fit(category: str) -> tuple[int, list[str], list[str]]:
+    offers = {
+        "Peluquería": (30, ["fidelización digital", "reservas y recordatorios", "web profesional"]),
+        "Belleza": (30, ["fidelización digital", "reservas y recordatorios", "web profesional"]),
+        "Bubble tea / Street food": (30, ["tarjeta de sellos digital", "menú QR", "web y pedidos"]),
+        "Bar / Cafeteria": (27, ["tarjeta de sellos digital", "menú QR", "web"]),
+        "Ristorante": (25, ["menú QR", "web y reservas", "fidelización digital"]),
+    }
+    points, services = offers.get(category, (5, ["web profesional"]))
+    return points, [f"encaje comercial alto para {service}" for service in services[:2]], services
+
+
+def alert_eligible(lead: dict[str, Any]) -> tuple[bool, list[str]]:
+    problems = []
+    if lead["score"] < CONFIG["minimum_alert_score"]:
+        problems.append("puntuación comercial insuficiente")
+    if lead.get("article_age_days", 999) > CONFIG["alert_max_article_age_days"]:
+        problems.append("noticia demasiado antigua")
+    opening_days = lead.get("opening_age_days")
+    if opening_days is None:
+        problems.append("fecha de apertura no confirmada")
+    elif opening_days < -14:
+        problems.append("apertura todavía demasiado lejana")
+    elif opening_days > CONFIG["alert_max_opening_age_days"]:
+        problems.append("el negocio abrió hace más de una semana")
+    if lead.get("opening_confidence") == "baja":
+        problems.append("evidencia de apertura débil")
+    if lead["category"] == "Otro negocio local":
+        problems.append("sector sin encaje claro")
+    return not problems, problems
+
+
+def score_lead(text: str, published: datetime, contacts: dict[str, Any], opening: dict[str, Any] | None = None) -> tuple[int, list[str]]:
     lowered = text.lower()
     age = (datetime.now(timezone.utc) - published).days
     score, reasons = 0, []
-    if age <= 14:
-        score += 35; reasons.append("publicación de los últimos 14 días")
-    elif age <= 35:
-        score += 25; reasons.append("publicación del último mes")
-    else:
-        score += 12; reasons.append("publicación reciente")
+    if age <= 2:
+        score += 25; reasons.append("noticia publicada en las últimas 48 horas")
+    elif age <= 5:
+        score += 18; reasons.append("noticia publicada en los últimos 5 días")
+    elif age <= 14:
+        score += 8; reasons.append("noticia de las últimas dos semanas")
     if any(has_term(lowered, word) for word in HIGH_INTENT):
         score += 25; reasons.append("señal explícita de apertura")
     if any(has_term(lowered, word) for word in RECENT_WORDS):
         score += 10; reasons.append("lenguaje de apertura inmediata")
     category = category_for(lowered)
-    if category != "Otro negocio local":
-        score += 20; reasons.append(f"sector ideal: {category.lower()}")
+    fit_points, fit_reasons, _ = commercial_fit(category)
+    score += fit_points; reasons.extend(fit_reasons)
+    if opening:
+        opening_days = opening.get("days")
+        if opening_days is not None and 0 <= opening_days <= 3:
+            score += 20; reasons.append(opening["label"])
+        elif opening_days is not None and 4 <= opening_days <= 7:
+            score += 12; reasons.append(opening["label"])
+        elif opening_days is not None and opening_days > 7:
+            score -= min(35, opening_days // 2); reasons.append(opening["label"])
     if contacts["emails"] or contacts["phones"] or contacts["instagram"]:
         score += 10; reasons.append("contacto público encontrado")
     if any(has_term(lowered, word) for word in CHAIN_WORDS):
@@ -222,16 +310,22 @@ def build_lead(item: dict[str, Any]) -> dict[str, Any]:
     combined = clean(" ".join([item["title"], item["description"], extracted["text"]]))
     name = extract_business_name(item["title"])
     category = category_for(combined)
-    score, reasons = score_lead(combined, item["published"], extracted)
+    opening = opening_recency(combined, item["published"])
+    score, reasons = score_lead(combined, item["published"], extracted, opening)
     address = extract_address(combined)
     lat, lon = geocode(address)
     pitch = pitch_for(category, name)
-    return {
+    _, _, matched_services = commercial_fit(category)
+    lead = {
         "id": item_id(item["url"], item["title"]),
         "name": name,
         "category": category,
         "score": score,
         "published": item["published"].date().isoformat(),
+        "article_age_days": max(0, (datetime.now(timezone.utc).date() - item["published"].date()).days),
+        "opening_age_days": opening["days"],
+        "opening_recency": opening["label"],
+        "opening_confidence": opening["confidence"],
         "found_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": item["source"],
         "title": item["title"],
@@ -243,10 +337,15 @@ def build_lead(item: dict[str, Any]) -> dict[str, Any]:
         "phones": extracted["phones"],
         "instagram": extracted["instagram"],
         "recommended_service": pitch["service"],
+        "matched_services": matched_services,
         "opener": pitch["opener"],
         "reasons": reasons,
         "status": "Nuevo"
     }
+    eligible, problems = alert_eligible(lead)
+    lead["alert_eligible"] = eligible
+    lead["alert_notes"] = problems
+    return lead
 
 
 def render_email(leads: list[dict[str, Any]], dashboard_url: str) -> tuple[str, str]:
@@ -258,6 +357,7 @@ def render_email(leads: list[dict[str, Any]], dashboard_url: str) -> tuple[str, 
         <div style="border:1px solid #ddd;border-radius:12px;padding:16px;margin:14px 0">
           <h2 style="margin:0 0 6px">{html.escape(lead['name'])} · {lead['score']}/100</h2>
           <p><b>{html.escape(lead['category'])}</b> · {html.escape(lead['published'])}<br>{html.escape(lead['address'])}</p>
+          <p><b>Apertura:</b> {html.escape(lead.get('opening_recency', 'sin confirmar'))}</p>
           <p><b>Contacto:</b> {html.escape(contact)}</p>
           <p><b>Oportunidad:</b> {html.escape(lead['recommended_service'])}</p>
           <p><b>Frase para entrar:</b> “{html.escape(lead['opener'])}”</p>
@@ -320,7 +420,6 @@ def main() -> int:
             seed["lat"], seed["lon"] = geocode(seed["address"])
         existing_by_id[seed["id"]] = seed
         if seed["id"] not in seen:
-            new_leads.append(seed)
             seen.add(seed["id"])
     for item in sorted(candidates.values(), key=lambda row: row["published"], reverse=True):
         provisional_id = item_id(item["url"], item["title"])
@@ -336,7 +435,8 @@ def main() -> int:
         seen.add(lead["id"])
         if lead["score"] >= CONFIG["minimum_score"]:
             existing_by_id[lead["id"]] = lead
-            new_leads.append(lead)
+            if lead["alert_eligible"]:
+                new_leads.append(lead)
     all_leads = sorted(existing_by_id.values(), key=lambda row: (row["score"], row["published"]), reverse=True)
     last_run = datetime.now(timezone.utc).isoformat(timespec="seconds")
     save_json(DATA / "leads.json", all_leads)
@@ -344,7 +444,11 @@ def main() -> int:
     write_dashboard_data(all_leads, last_run)
     print(f"Detectados {len(candidates)} artículos; {len(new_leads)} prospectos nuevos; {len(all_leads)} totales.")
     if not args.no_email:
-        send_email(all_leads[: CONFIG["max_email_leads"]] if args.email_latest else new_leads)
+        if args.email_latest:
+            alertable = [lead for lead in all_leads if lead.get("alert_eligible")]
+            send_email(alertable[: CONFIG["max_email_leads"]])
+        else:
+            send_email(new_leads)
     return 0
 
 

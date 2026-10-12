@@ -4,9 +4,11 @@ Sistema gratuito que busca nuevos negocios en Milán, los puntúa según su valo
 
 ## Qué hace
 
-- Busca dos veces al día noticias y anuncios recientes mediante Google News RSS.
+- Busca dos veces al día noticias y anuncios de los últimos 14 días mediante Google News RSS.
 - Prioriza restaurantes, cafeterías, peluquerías, barberías, centros de belleza, bubble tea y comercios similares.
-- Puntúa cada oportunidad de 0 a 100 según fecha, señal de apertura, sector y contacto disponible.
+- Distingue la fecha de publicación de la fecha real de apertura y no alerta sobre negocios que abrieron hace más de una semana.
+- Solo envía alertas de noticias de hasta 5 días, con evidencia suficiente de apertura y un encaje comercial mínimo de 70/100.
+- Puntúa cada oportunidad según recencia real, sector, servicios aplicables y contacto disponible.
 - Intenta obtener email, teléfono, Instagram y dirección desde la fuente pública.
 - Geolocaliza direcciones con OpenStreetMap/Nominatim.
 - Envía únicamente los prospectos nuevos para evitar emails repetidos.
