@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4707892,
-    "lon": 9.1844383,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -230,8 +230,8 @@
     "title": "Nuova trattoria in Porta Romana",
     "url": "https://www.trattoriatina.it/",
     "address": "Via Altaguardia 16, Milano",
-    "lat": 45.4490086,
-    "lon": 9.2000489,
+    "lat": 45.4502387,
+    "lon": 9.1996247,
     "emails": [
       "info@trattoriatina.it"
     ],
@@ -247,6 +247,80 @@
       "todavía construyendo reputación pública"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "efb0c59dec1e528f",
+    "name": "Fiera Ice Arena con 4mila posti per gli sport su ghiacc",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-10-09",
+    "article_age_days": 3,
+    "opening_age_days": 3,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-10-12T10:01:50+00:00",
+    "source": "Virgilio",
+    "title": "Milano inaugura la Fiera Ice Arena con 4mila posti per gli sport su ghiaccio - Virgilio",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR3J4WmdIOHNxMzNISkdKUFJKMzk1X0VweGlINEhQQXpNU2stWC1xV0UzT1lCUDdHcUEyU2JXckhhTEJzREF1cENPZ0hVb2R2U1V1Q0taQW5pUEgwamp2ZTZjNVNWQmtiMVAtQWFDdF9Ra3k1VjRsdVRQS2JhNTBXM21DTjFyWEFFNjN1OW11UGtDV09oYWxnWXN4bnNyWmxTamlFMV82ZllsS1BkN1ZfeEVHUHdmbWRvZDBJSTN2b2I2ZkNyc1ZSVXNHUHdRVEZ5YmhRWV9jcWNvUdIB3wFBVV95cUxQeGxydVp4dFF3WUxQMHZNbEpXTHlPTjBXWVJXdVJDeV90bTRnTXQtQkEyM1MzeXRBRk9ZdVNRVnRxdkRKSFVzbzZOUzYySGhUNXVIZHpvUzB4QWVDY0JkdHN6VTZMUEFKSENHYnE3clAwT3V2LVI0TVFYdGl0c2Y1Z2pQX09YZjdvRjBjM2VCTnhsZGEwbnZNSDNWZzdvejlnMElPSUVFbFd5VTNmVGFYYUZ0SGVkd3FfTXFTOS1yVzQzYjhSNFp0UWd5LWw5NUtsems4Q0VmZ3FGZ3BJSU9R?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Fiera Ice Arena con 4mila posti per gli sport su ghiacc es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "16cfc8c525de0c85",
+    "name": "Fiera Ice Arena con 4mila posti per gli sport su ghiacc",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-10-09",
+    "article_age_days": 3,
+    "opening_age_days": 3,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-10-12T10:01:50+00:00",
+    "source": "Il Giornale dei Castelli Romani",
+    "title": "Milano inaugura la Fiera Ice Arena con 4mila posti per gli sport su ghiaccio - Il Giornale dei Castelli Romani",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTkwZm9kbTF0MmlSVXBiMVFFUXhsb0ZMNHlqM2FRUTZBLVh0dVFaQnR1RTlFOFdTZkhOdDJNdzkzcWM4MmNjOWl3TzFyZElGd0M0bVZhYjBzX1QweEM3Zl9wUm8tb2NtcEdoX2lMeTgyTllQUllUNHNsWmJNaEx4ZHJESVVPSE1qQ3hHMHdRVjV2V3pzSHFHRXR5Y2ZSeEZPQzFpTEM1N0hHR3RrRkdWOXhfdTBKWW9zS2tJ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Fiera Ice Arena con 4mila posti per gli sport su ghiacc es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "seed-nomad",
@@ -376,6 +450,89 @@
       "sector ideal: ristorante"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "521531251568bd43",
+    "name": "IN ITALIA E APRE A MILANO IL PRIMO RISTORANTE DEL BRAND",
+    "category": "Ristorante",
+    "score": 68,
+    "published": "2026-10-08",
+    "article_age_days": 4,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T10:01:50+00:00",
+    "source": "EIN News",
+    "title": "WINGSTOP ARRIVA IN ITALIA E APRE A MILANO IL PRIMO RISTORANTE DEL BRAND SPECIALIZZATO IN CHICKEN WINGS - EIN News",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTHg3SzVWQm5JN3I2SzJ3OXgycWRQQmNkQTM0ZndRZjlKeDdNX0NZRi0wUzlULTBaT2ZORlJINTROVDdpOHppVUNhV21EQzJNVHRIUzJxazdyVzBPV29RcndSUHJwTGxaNHJYaE9kbTl0R3ozM0RqbVNwSS0tcURsNGRsYXMtallUR3JkSzEwWk44OW50eWstZ09kTU1DYktOVzRoc3l6Yl9hUnNNQXVNTEMxVGpyTEhaamdJdXZ5RFlpNFpaZE9MSkNLV0ZoSjAtV3dHUXZ3QW9nUEU5?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que IN ITALIA E APRE A MILANO IL PRIMO RISTORANTE DEL BRAND acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
+  },
+  {
+    "id": "2c93c89b47cdf3e4",
+    "name": "pop up",
+    "category": "Belleza",
+    "score": 63,
+    "published": "2026-10-05",
+    "article_age_days": 7,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T10:01:50+00:00",
+    "source": "MilanoToday",
+    "title": "Il parco termale più grande di Milano apre un pop up: massaggi express e meditazione in cuffia - MilanoToday",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaQnpXNV90bUozcmpJRXZqeXpqU0xTMkk2cWpFNXVaNlJFOWxIWDBuYWtEcWs4ZTNiR2hwSXRjN1hub2owZVVVOVZ1Qmd5YkpQYjZCYm95NkFTNWJOdmp5dzZxaFktMF9IVFFiVDQwdklZdzFCRGZQUDg3d0tjUQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "tarjeta de fidelidad digital + recordatorios de cita",
+    "matched_services": [
+      "fidelización digital",
+      "reservas y recordatorios",
+      "web profesional"
+    ],
+    "opener": "He visto la reciente apertura de pop up. Podría ayudaros a hacer que cada primera cita se convierta en una segunda con una tarjeta digital y recordatorios automáticos.",
+    "reasons": [
+      "noticia de las últimas dos semanas",
+      "señal explícita de apertura",
+      "encaje comercial alto para fidelización digital",
+      "encaje comercial alto para reservas y recordatorios"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
   },
   {
     "id": "1238e8d5f0e8fce7",
@@ -770,6 +927,84 @@
     "status": "Nuevo"
   },
   {
+    "id": "866b15eae49cdd17",
+    "name": "nuova sede di Milano",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-12",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T10:01:49+00:00",
+    "source": "neveitalia.it",
+    "title": "Rossignol apre la nuova sede di Milano: un polo per abbigliamento, calzature ed ecommerce - neveitalia.it",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZGhqWE1YUlZGczRyTlhJYjdOSjJGcmVVX3dHTFlpSjhITDVZeGJIZGRIZGZRYkl0NllxWThqLW5DekV1MEl3dkRIdjg0c1NHSEpMVktfdnpDVjN1cGxsUmhqcGpzclBoWk5DN0IxTnhHRjRCTVJ2S1dVaTE3bzBQQUNfaFhmMmxXWUsxM3l3MjNmS0RXc2MwZFNVamJ4OU1lR1oxQVo2S0NzVUtZOEh5TkhKRENSeW0ySjM4TzdYQXQxU3Z3Smk2eWprS1Z6eWRWdVE?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que nuova sede di Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "a9b4cad928073c3c",
+    "name": "nuovo Chocolate Shop a Milano",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-10",
+    "article_age_days": 2,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T10:01:49+00:00",
+    "source": "Winemag.it",
+    "title": "Lindt apre un nuovo Chocolate Shop a Milano: è il 42° in Italia - Winemag.it",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTBpNGhqb2lJRWRRLUxUR2Jxai04NXdKTVF6dXNFUEFfOF9meTBqcGk2dXBYT0lId0ZRQWVLODlzTV9mV0dYM1g3aFdLM012MjhOcTJ1MzVrbjFNLTF2NnJtQmt1cmlvc2lMRXIwS1Rtcms2UHpLaWlzU0NwQnlsZmtFX0x4dkwxalItR3V3?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que nuovo Chocolate Shop a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
     "id": "f722500664070943",
     "name": "Mare con terrazza su piazza Duomo a Milano",
     "category": "Otro negocio local",
@@ -890,6 +1125,45 @@
       "señal explícita de apertura"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "5e6e4195fb420bb4",
+    "name": "nuovo sportello clienti a Milano",
+    "category": "Otro negocio local",
+    "score": 48,
+    "published": "2026-10-09",
+    "article_age_days": 3,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T10:01:50+00:00",
+    "source": "Teleborsa",
+    "title": "A2A apre un nuovo sportello clienti a Milano, nel quartiere Lambrate - Teleborsa",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1JxUnFFekpUZUhVS1hWTXBIR0owQnhUeVZXYU1jMnlValVja2dMZ3RjVTk0Z0ExUkFqQ3cwOVUwU2xabkFZbnRFdld3U1RCeVk4SldFUWZ4ckNUQjNra1pUZF94eW1OUWJRaTN3U3hoVGc0UTBzVjlZbjhYOXNLTnh0N0tuc2gxREJTMWZHSTRkQmJPR05HbENVMmYxc0ZYcDhHdDhlWThwQ0Z2Tkl2aXlWeXZKbEk?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que nuovo sportello clienti a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "b3bb5dbefe24f9da",
