@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T10:01:50+00:00",
+  "updated_at": "2026-10-12T15:25:27+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -233,8 +233,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -954,6 +954,84 @@
         "web profesional"
       ],
       "opener": "He visto que nuova sede di Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "5ad41a525cb322b2",
+      "name": "Rosso a Milano",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-12",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-12T15:25:27+00:00",
+      "source": "Italia a Tavola",
+      "title": "Apre Rosso a Milano: il nuovo format di Rossopomodoro per la ristorazione premium - Italia a Tavola",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUFENTlfU1dCVi1jam5PeFlIaEVOOG1QcmRMQUd2TTl1MWFtcm5TeVc4VUhXdU04andlcGpqWlp6V2ZldXRQZ2tNdlpJVGpKZlU1SUs4WE5RU28zLWZMaTMxTzZXLUR3ZFk0c1A3amlxS2JvU2hrM0h4WWJzQ0tIbzZES3paY2JKb09jMFRNVWFRRUtYa2FreEdlZnFxVXZaTzNCYXgwNFlxVDhuV2MxYmVHNEV5QTVURU9iQ2YtMHpIdW5ydV9rRFJGQkJndw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Rosso a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "fd8c160c9cf42ccc",
+      "name": "nuovo store a Milano e assume personale",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-12",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-12T15:25:27+00:00",
+      "source": "MilanoToday",
+      "title": "MediaWorld apre un nuovo store a Milano e assume personale: ecco come candidarsi - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTJWblI4dlBoRHpoc0JLRUlrNVVqVzNiN2JzTzF2X1drXzY2Q0o0X1FoNURXWV83aWU4S0ZCQVR1ekNGekVBbll3eVcwbDlHVWdzdnZMc2NqS0FmSVBjWTc0UTFDWDBOWldVa3JCbU9pZFpEX2FJWWcwRFN2VFZWdEhn?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuovo store a Milano e assume personale es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "noticia publicada en las últimas 48 horas",
         "señal explícita de apertura",
