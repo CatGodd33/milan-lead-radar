@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891391,
-    "lon": 9.1868221,
+    "lat": 45.4891995,
+    "lon": 9.1864028,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4715215,
-    "lon": 9.1840827,
+    "lat": 45.4707892,
+    "lon": 9.1844383,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -230,8 +230,8 @@
     "title": "Nuova trattoria in Porta Romana",
     "url": "https://www.trattoriatina.it/",
     "address": "Via Altaguardia 16, Milano",
-    "lat": 45.4490086,
-    "lon": 9.2000489,
+    "lat": 45.4502387,
+    "lon": 9.1996247,
     "emails": [
       "info@trattoriatina.it"
     ],
@@ -1044,6 +1044,45 @@
     ]
   },
   {
+    "id": "4f1615e649cfb2c7",
+    "name": "e cerca personale",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-12",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T23:37:43+00:00",
+    "source": "Milano Weekend",
+    "title": "Acqua & Sapone apre a Milano e cerca personale: nuove opportunità di lavoro tra Porta Venezia e Piazza Tricolore - Milano Weekend",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2o0UTA4MTdlanZiUGEwUm1PYTV0c1ZXb1J1QzcxcDMtdUgzeGVxOFVEaWZYdWhGSjNGNm5RaHQwWDZCekxZRUpSNkdUOEdELXRUQWRnWUc4dU5Fb1lpVjNpRElKWWlZUExxYUJjZFAyY0g0cXBTNDhkTjZsbElLU3lIYVF0QQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que e cerca personale es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
     "id": "a9b4cad928073c3c",
     "name": "nuovo Chocolate Shop a Milano",
     "category": "Otro negocio local",
@@ -1229,6 +1268,45 @@
       "web profesional"
     ],
     "opener": "He visto que nuovo sportello clienti a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "866ea61a72cd29a0",
+    "name": "al Mercato Centrale Milano",
+    "category": "Otro negocio local",
+    "score": 48,
+    "published": "2026-10-08",
+    "article_age_days": 4,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-12T23:37:43+00:00",
+    "source": "MilanoToday",
+    "title": "Chi apre al Mercato Centrale Milano: dalla pizza di Rizzuti ai dolci della 22enne Ginevra Manfredi - MilanoToday",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjFVV3BWUHVlb0ZuS2d5YWVWZUFGeE80RWlha3FPM0pGTDUyLUtWcWJXc1FVSGsxQVFmQkdmTV9iOGU2ZkU1ZmFCR0tqekJrd0VucklBWDR0cnNYeDVGeFJRbmg1dWVOWDBPVmZELXNvOFBrazYxMnlxdWwtUVJDMEVTc3VxRTF5NVpqaA?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que al Mercato Centrale Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
     "reasons": [
       "noticia publicada en los últimos 5 días",
       "señal explícita de apertura",
