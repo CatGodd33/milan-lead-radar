@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891995,
-    "lon": 9.1864028,
+    "lat": 45.4891391,
+    "lon": 9.1868221,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -95,8 +95,8 @@
     "title": "Nuova enoteca con piccola cucina",
     "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
     "address": "Via Pioppette 3, Milano",
-    "lat": 45.4576103,
-    "lon": 9.1815916,
+    "lat": 45.4579831,
+    "lon": 9.1813918,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4707892,
-    "lon": 9.1844383,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -218,6 +218,46 @@
       "sector ideal: bar / cafeteria"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "6c06fb3f13775ea8",
+    "name": "Milano",
+    "category": "Bar / Cafeteria",
+    "score": 77,
+    "published": "2026-10-13",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-13T14:11:55+00:00",
+    "source": "MangiaeBevi",
+    "title": "Milano, le nuove aperture da scoprire: dal caffè d’autore alla moda, fino alle cucine dal mondo - MangiaeBevi",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmlESkFTX2QxTFBsclRldU9CalBDT2dGcUJlNHBaYlQ3R0hiMTFWSllyR0VSV09ONU5jNHlPUW9SR3VPZjc5anVPQktfTHpiZjFscU1waEFNa1ZhQm5JVFI0VnB1T3Z1OHZKdjJwSXBtWndzelk2VEZkS3E2NG9mdmI1YnV1bnhrcWlIS3RMOTV4LVVTbXhnTFNzOEZRQlJuT0tzLVI3OGx0TGdXTGVJckNVX050SExsQlk0?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "tarjeta de sellos digital + menú QR",
+    "matched_services": [
+      "tarjeta de sellos digital",
+      "menú QR",
+      "web"
+    ],
+    "opener": "He visto la apertura de Milano. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para tarjeta de sellos digital",
+      "encaje comercial alto para menú QR"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
   },
   {
     "id": "seed-trattoria-tina",
@@ -1068,6 +1108,45 @@
       "web profesional"
     ],
     "opener": "He visto que e cerca personale es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "ebbf9b536f3e52a2",
+    "name": "L’Alta Velocità sbarca sull’Adriatico",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-12",
+    "article_age_days": 1,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-13T14:11:55+00:00",
+    "source": "Milano Città Stato",
+    "title": "L’Alta Velocità sbarca sull’Adriatico: fissata la data di apertura del primo tratto - Milano Città Stato",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDQ1YmYxd3J2dGpVWWplTjN1Y242UVNnVWhXZTRMS2t3bkJ5cUVEemNuSFZIUUJtanF6SHhoSEZHbWdPYnJNWEgzaWZ0NXFzeVNLUGIwUjY0Vzl2elZZbWRkd2VLdEhnM2syNWVFS2pmX3pacTF6UFp1eFNLWjJGYTEyRGNvbkFVUkM3NDZVNV8yZjh6Tl9pQ2pSVFI0d3hpRHlyVy00VUh0UmZ3eUx4ZElQYnlEUjJnQlE?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que L’Alta Velocità sbarca sull’Adriatico es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
     "reasons": [
       "noticia publicada en las últimas 48 horas",
       "señal explícita de apertura",
