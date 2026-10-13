@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:11:56+00:00",
+  "updated_at": "2026-10-13T21:51:24+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4715215,
-      "lon": 9.1840827,
+      "lat": 45.4707892,
+      "lon": 9.1844383,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -263,6 +263,46 @@
       ]
     },
     {
+      "id": "277eb2f3a1cd1634",
+      "name": "Una delle più amate osterie di Milano ha aperto un nuov",
+      "category": "Bar / Cafeteria",
+      "score": 77,
+      "published": "2026-10-13",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-13T21:51:23+00:00",
+      "source": "CiboToday",
+      "title": "Una delle più amate osterie di Milano ha aperto un nuovo bar tavola calda vecchio stile (i bomboloni sono farciti al momento) - CiboToday",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaHdOQjlnb2IxdnFwVlFHcm4xUkxnYUR3RVZjV0hUcUoxU0xJMVhqX3lMd2xRUWNZTFpDckRfdmo4M29WSDk5aGhVSG83Rmc0a1dheExBWGpmak5YRnoyekxOTEhxQ2JMV1lSdWFrbzBNRW5OQnZaMGx3MmZ1WGVxQTJWQWFZc3g5WlhtanhabFZUaDFDTEJ0UmV6YTBNM1BPOFJpUUZpVlFmMVdmUEFKdHlZNG41NFdzUDg0aVUyUzFYTl9MWGNLT3RGZHNKcHpobTlEQVJSX29TdGx0UkJGZnhrVTdhaWI2ZGs0WklmSWxXTjZJd0ZNWEF30gH6AUFVX3lxTE9Nd3h0a2tDZ1JUUnpFdkJkckxld1NRblJzTlB2cTJBYXhqTEEwTmVMeHZ4U3hBZ2hxOE9XVEtjdGVzbG9FYTRHbU1HQVFJdE5tRVRkR0ExbTlMU1pHRzViZTFjWTZVOFRZNFNsOVZ6UGNnMmx6TWZ6VnI2RHNyN0NJRWVSajF3dEs0RWNMSlJCSGQ3LUJIcG9QazFzazVqOEI0UWY2ZktfMkJiaE9kWWFJc0xyMDJLeGg0MmRLWE9SSmt1ZzNmZVIteWtZaklsbzJiRFpndlJCdndCWVJIaGx0UEY2cWJoQWdUOEZUa1lzaFpjancxYlNRR0E?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de Una delle più amate osterie di Milano ha aperto un nuov. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
+    },
+    {
       "id": "seed-trattoria-tina",
       "name": "Trattoria Tina",
       "category": "Ristorante",
@@ -273,8 +313,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -290,6 +330,43 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "e740b8e06270f3e6",
+      "name": "in Corso Buenos Aires a Milano il suo 42esimo Chocolate",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-10-13",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-13T21:51:24+00:00",
+      "source": "Distribuzione Moderna",
+      "title": "Lindt inaugura in Corso Buenos Aires a Milano il suo 42esimo Chocolate Shop in Italia - Distribuzione Moderna",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzh4ckxvMnNEdlYwTVVaTzBsLU1ORXlZeHNWQVRaZ0NBdXpTYW0wSW5FMXdMZUlSSmhVZGhOREMydlNBWHhSV3pXVzRkUDl1TmJoWWlUMDl5LWdKcGxnd1c5Vmd2QVkyQ2w3aEQyUFB3LXhsemxYWmtUYzQ5YUZpSWhYeUkwOUhjMVNyY0hOeUxqRXNCaEI3S0tSb251ZWlxbUN5ektQM2tUZnhONDBXT0o2Mng0UjhOVlowYlFmZFB2TVdwbktn?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que in Corso Buenos Aires a Milano il suo 42esimo Chocolate es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "efb0c59dec1e528f",
