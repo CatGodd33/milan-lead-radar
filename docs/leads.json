@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T11:52:11+00:00",
+  "updated_at": "2026-10-14T20:41:42+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -303,6 +303,46 @@
       ]
     },
     {
+      "id": "092bac0347a8517e",
+      "name": "Una delle più amate osterie di Milano ha aperto un nuov",
+      "category": "Bar / Cafeteria",
+      "score": 77,
+      "published": "2026-10-13",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-14T20:41:42+00:00",
+      "source": "MilanoToday",
+      "title": "Una delle più amate osterie di Milano ha aperto un nuovo bar tavola calda vecchio stile (i bomboloni sono farciti al momento) - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVld1Q1lsUXFuMEVvczJXcTdmeEpyVzVvUFQ3RzhiTDdLRkxReXZXUEIzc0pMc0hES0lrTlJ5U1V0WDdOZEM1V3FMTVcwVWNUdzhWTzlpRFpkMTFEUWZ2RUdjYXJMRURPT0JRY2xMSEl2V2J0NHo4SzBrNEVKTXpkUGtTNkdBMEt2WjRfQkkyaWxIMVc3bUdaRFp4ODBvUW1RODg1YjhTX1JnZkgtclVxVGJiQzZXQkFOaE12ZmQtTWluaUtaX1B5S21tWUlvSGZqSGtuaVFaYlZDN3UxMGJoX3JrS0VQSHlldDF0WnRRT0IwQQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de Una delle più amate osterie di Milano ha aperto un nuov. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
+    },
+    {
       "id": "seed-trattoria-tina",
       "name": "Trattoria Tina",
       "category": "Ristorante",
@@ -313,8 +353,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -330,6 +370,43 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "2ff0185c7790e39d",
+      "name": "nuovo anno",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-10-14",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-14T20:41:42+00:00",
+      "source": "Milano Pavia NEWS",
+      "title": "Milano, il Collegio inaugura il nuovo anno: 230 storie di impegno e talento da tutto il mondo - Milano Pavia NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdkVUNDUtdVpETm5tX2luUUtSRTUxaWVZSUVqUHYwM0VrRTZ1MFRoOHZ5MUtNQ3RuZkF6VHd6SHdTLU5jTU9uRU8wRUlFV3pvbWtoOXZ3U3AwTEhIc3VxckpTSFJ4dzhnVkp6WkNUQ1NEVnpFTGpLYVpWbTlUaVBlbjJqZWV6YXdSb2Z1TWp0c2VYaDNRcFJjWF9uRHZzaG5xdDdqdURTdkRfTGhuOGZkRE1VTTViRTRZX2MwaF9VYjRDSGF2RGJzcg?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuovo anno es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "e740b8e06270f3e6",
