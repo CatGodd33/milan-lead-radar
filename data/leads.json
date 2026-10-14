@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891995,
-    "lon": 9.1864028,
+    "lat": 45.4891391,
+    "lon": 9.1868221,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -95,8 +95,8 @@
     "title": "Nuova enoteca con piccola cucina",
     "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
     "address": "Via Pioppette 3, Milano",
-    "lat": 45.4579831,
-    "lon": 9.1813918,
+    "lat": 45.4576103,
+    "lon": 9.1815916,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -605,6 +605,48 @@
     "alert_eligible": false,
     "alert_notes": [
       "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
+  },
+  {
+    "id": "280734705c6e0bf2",
+    "name": "IN ITALIA E APRE A MILANO IL PRIMO RISTORANTE DEL BRAND",
+    "category": "Ristorante",
+    "score": 68,
+    "published": "2026-10-08",
+    "article_age_days": 6,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-14T11:52:11+00:00",
+    "source": "EIN Presswire",
+    "title": "WINGSTOP ARRIVA IN ITALIA E APRE A MILANO IL PRIMO RISTORANTE DEL BRAND SPECIALIZZATO IN CHICKEN WINGS - EIN Presswire",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0lOaEtXYkVHM0ZxWlJQZ0VlUUMzN1h4MllqaDVsbElYRmY2Tm92blRldzV2RzBlRzdlcVM4RThvNG52RkNsMWFlYnpTczc2WjhNUWI0Vi1qNHhyR3BIQjBQRXVWSC11cnkxTFRTVjg4M2dURzM0VDBzekJhLVNVR01uUjZqRzR5RTFpY2k3blA1VkpaOGpRdjdzNUIyX18zVGxBZlRtZjBiWWd1RGYtNmdTbXdlLUU1cnJ1TWdRUFdhWXVPajJXdGJkWjJTT3YyeGM3bTJRWXhhakxlTXlSMGFGRQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que IN ITALIA E APRE A MILANO IL PRIMO RISTORANTE DEL BRAND acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
       "fecha de apertura no confirmada",
       "evidencia de apertura débil"
     ]
