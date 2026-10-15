@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:29:00+00:00",
+  "updated_at": "2026-10-15T20:20:52+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -370,6 +370,43 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "25141298dfc98137",
+      "name": "nuova sede all’interno di MIND",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-10-15",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-15T20:20:52+00:00",
+      "source": "https://radiomusicaitaliana.it/",
+      "title": "Milano, E.ON Italia inaugura la nuova sede all’interno di MIND - https://radiomusicaitaliana.it/",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObTlfWFAxdjdUakh4S0lSVzMtZEx0WWNWc1c0M2otVE1UUnRmLUNrN0dJeDNGUlFwQjBUWWpXZTF6elZIUENsblY2VkhnVXAwZFdPWkRBTUdVYkJlQ2lmY2tRUDRaSTdPUnpGcUdhVzdpQVFEUXkxazFON1RzMHlUNUlVOTV6UUQ0X1ZqVXVUd1hyeHNGLUpj?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuova sede all’interno di MIND es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "2ff0185c7790e39d",
@@ -1559,6 +1596,45 @@
         "señal explícita de apertura"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "86bf3262178ee0b3",
+      "name": "a Milano",
+      "category": "Otro negocio local",
+      "score": 48,
+      "published": "2026-10-12",
+      "article_age_days": 3,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-15T20:20:52+00:00",
+      "source": "Living Corriere",
+      "title": "DUMBO apre a Milano: smashburger parigini e interni d’autore - Living Corriere",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0NzaWFrN21tRE91NkM0OG9FQUVoY2hOcWdGWUtPZ3JIM1FLMW51Y0xwam55UHY2bHo3dmtuX1d3TU43U2NqY01xaEZMWk1Bcm5SZlR1bnppVDBYTHpleUMtQ1FwT0FLSk00ZGozUnJVbXQ5dmhHTmQ4Y1NXTjBmZDRB?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en los últimos 5 días",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "5e6e4195fb420bb4",
