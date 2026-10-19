@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:26:03+00:00",
+  "updated_at": "2026-10-19T13:15:11+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4576103,
-      "lon": 9.1815916,
+      "lat": 45.4579831,
+      "lon": 9.1813918,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4715215,
+      "lon": 9.1840827,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -1315,6 +1315,45 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "884e92c13e5a6809",
+      "name": "primo showroom a Milano e prepara il debutto nel retail",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-19",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-19T13:15:11+00:00",
+      "source": "BeBeez",
+      "title": "Twentyfourhaitch apre il primo showroom a Milano e prepara il debutto nel retail. Punta a 9 milioni di ricavi nel 2027 - BeBeez",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSXlqNzdaYTlfQ09rdlA0QnBnLWlaYjNSaDJiZS04YjcxcUVaeGM4TmxBY3MtRDhGa3FodExBUlJpcXJwNDJHanR1NjdFRTd6MW5DQWNBb1pUWWVfc2dGcG5KUzV2NXlBZGxpLXljaFJlaGRfWGhpcTdoRkNBSTI3Rnh1RGRRdXRzNDBXeHdsT0czWDMza3lQZWJHeUdFcms1NEVSYUFSSm5HaHZ2SlNxaXd2U1d4cTRMSVhfc2I2WU5IbG9RMWlKcU1qOGlZUWV4MG1tUjFGMmM?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que primo showroom a Milano e prepara il debutto nel retail es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "e8b214d267bc4e8e",
