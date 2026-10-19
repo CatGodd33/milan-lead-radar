@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891391,
-    "lon": 9.1868221,
+    "lat": 45.4891995,
+    "lon": 9.1864028,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -95,8 +95,8 @@
     "title": "Nuova enoteca con piccola cucina",
     "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
     "address": "Via Pioppette 3, Milano",
-    "lat": 45.4579831,
-    "lon": 9.1813918,
+    "lat": 45.4576103,
+    "lon": 9.1815916,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -1349,6 +1349,43 @@
       "puntuación comercial insuficiente",
       "fecha de apertura no confirmada",
       "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "76d2cd4d792e12d8",
+    "name": "prima mostra collettiva di Bobino Gallery a Milano",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-19",
+    "article_age_days": 0,
+    "opening_age_days": -2,
+    "opening_recency": "fecha de apertura detectada: 2026-10-21",
+    "opening_confidence": "alta",
+    "found_at": "2026-10-19T21:32:05+00:00",
+    "source": "Eventi e News",
+    "title": "Raise the Roof, il 21 ottobre inaugura la prima mostra collettiva di Bobino Gallery a Milano - Eventi e News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW9kcWVYbG5QVWt2UE5rRkc1cmFtYmxpSUREWXNtWHZvUm5ISWsySkRiSzhZMjRhNHV2OGFoSDZQZ1hGejJqYTh2QWNfNnNVdUdLR0Y3bnB4UnFRWHVWMU1pVEJzdlZBSzlWa3FYMHR4R1M0M2hQTXgxenVlTE9Gc2g3N3B1M0E1T1pHdEN0aTVpdmdYZEJVQS1GeWp4ZVFpYk54Nm5kR3BJbHhIR29rNjZPWTFQdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que prima mostra collettiva di Bobino Gallery a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
       "sector sin encaje claro"
     ]
   },
