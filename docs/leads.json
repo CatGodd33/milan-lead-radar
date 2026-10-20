@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:32:05+00:00",
+  "updated_at": "2026-10-20T11:36:23+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4576103,
-      "lon": 9.1815916,
+      "lat": 45.4579831,
+      "lon": 9.1813918,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4715215,
-      "lon": 9.1840827,
+      "lat": 45.4707892,
+      "lon": 9.1844383,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -1389,6 +1389,45 @@
       "alert_eligible": false,
       "alert_notes": [
         "puntuación comercial insuficiente",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "dbf4a5e149207431",
+      "name": "Calo sostanzioso alla Borsa di Milano (-1",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-19",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-20T11:36:23+00:00",
+      "source": "Corriere dell'Economia",
+      "title": "Calo sostanzioso alla Borsa di Milano (-1,41%) in apertura, in linea con le altre del Vecchio Continente (19.10.2026) - Corriere dell'Economia",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaUtlTEIzTVNySWFsSjJLYUJWX2p4YmF4N1J3NklfbEpqVHpSTW5Qd0RPZ1I3Ym5jT05oQnFZWEFROWVrNzJ1YjNrbEk5R2VrZHpjd1ppOFdOTWtaZzhuM2xadllsNk8ya0ZPNEhsRjRHSmRkcmFwOTEtaWxlbFY0RDdJeEVacFZqUnhmLWlyVm1IWjdaNUpEejZVWmVtVl9FOERlQlZRbXZFd0JlTy1qblZ3R3h4aV9KU3Z2ZGhFWEJVUEZlNnhuc0xJR0N5cUh0Q183bzB5VnJCejhWZC1OLWNkMU00aTlmd0pqcS1R?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Calo sostanzioso alla Borsa di Milano (-1 es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
         "sector sin encaje claro"
       ]
     },
