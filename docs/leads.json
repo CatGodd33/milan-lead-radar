@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:49:11+00:00",
+  "updated_at": "2026-10-21T20:38:26+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4715215,
+      "lon": 9.1840827,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -1466,6 +1466,84 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "05bd21ea21b97d12",
+      "name": "nuova scuola per diventare autisti",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-21",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-21T20:38:25+00:00",
+      "source": "Il Giorno",
+      "title": "Atm assume a Milano: apre la nuova scuola per diventare autisti - Il Giorno",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGJleEdWcldKVmhGbW9BQ3J2dDhFTUVaMnRzZGthYmxsTWg0VmZyTlFiUFVVMXlYMHA5Q0FtUUtxQ2g0Umk0Z3FoWENfOEh0R3ZCclFxZFJrOGxiUXZiV2tmejRFMUlvdmRyemw3YkhCX0pfX3oyTWJXdGRFelFERmVXZkdzZGdnVnVpVFpuRDFhQjZOU2drUkhBdUE4OWZPc2ZDUEluaXlOS1ptbDBhSg?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuova scuola per diventare autisti es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "7d59f90532576fe3",
+      "name": "Borsa di Milano. Avanti piano in apertura +0",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-21",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-21T20:38:26+00:00",
+      "source": "Corriere dell'Economia",
+      "title": "Borsa di Milano. Avanti piano in apertura +0,29% (21.10.2026) - Corriere dell'Economia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTJxU0QxVkJZeTdGdFJVWTI5YTZnQ2N3dUpINEowWGpDX1NiR2N0M0FHTDVaQTlrbEdBcFhPM2k3YkNHdUQ1VmhIckJYTS1YOFRsSlJuVFpVS0pESU5pVTR2dHpuLVJub3NlQmlPQl81QTFwQ1hITUlkXzJtcEpXbnVQUFd5SkRFYVRtTzd2NGp3MGVCTU1JTzlwNXBiemJ2TlJuS3Jn?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Borsa di Milano. Avanti piano in apertura +0 es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "291ecea6691cea58",
