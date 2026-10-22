@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:38:26+00:00",
+  "updated_at": "2026-10-22T11:52:38+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4576103,
-      "lon": 9.1815916,
+      "lat": 45.4579831,
+      "lon": 9.1813918,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -353,8 +353,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -1685,6 +1685,45 @@
         "web profesional"
       ],
       "opener": "He visto que Calo sostanzioso alla Borsa di Milano (-1 es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "fcde925f340a1619",
+      "name": "Scalo Milano Outlet & More",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-19",
+      "article_age_days": 3,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-22T11:52:38+00:00",
+      "source": "Mentelocale",
+      "title": "Scalo Milano Outlet & More, il decimo anniversario dell'apertura e Yellow Ten-tations, tra sconti e promozioni - Mentelocale",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMmpuQ3ZmM2ZBRHNWWXhoTTJaXy11NzJzM21XTUllN2pFeFlFeGZVNGl4cUhyNll0ZzU0UFdCb3c2b1Uxc0lReFVUZk43cWF6T3g3bFByb0JFVTZSXzBKNUZtWVRFLW5SZkNSMklsSWlQc1RvVzlZcF81X2JBeVg5a1dDUGxFNUxQM1pJbHJSTTI4Z0Y1Q21raUVYWkdJdkpIanQ1aEk3dnBvRUdBX24yLUtJckd5X1NBYWFzU1huUFBrU2duTllFT2tEXzV0ZnJ1cEp1WWRCQ3FLcDd2M2NxRnhNbElNUQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Scalo Milano Outlet & More es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "noticia publicada en las últimas 48 horas",
         "señal explícita de apertura",
