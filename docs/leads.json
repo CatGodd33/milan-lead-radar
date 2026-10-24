@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T20:27:10+00:00",
+  "updated_at": "2026-10-24T11:00:07+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -353,8 +353,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -1529,6 +1529,45 @@
         "web profesional"
       ],
       "opener": "He visto que l’Archivio Colombo es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "3507073e0a05e22c",
+      "name": "nuovo negozio",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-10-23",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-24T11:00:07+00:00",
+      "source": "Outdoor Magazine",
+      "title": "Garmin apre un nuovo negozio: dopo Milano, tocca a Bologna - Outdoor Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGxqSF9FVmVoS3A2cXhRSVNpcXY2eFJKbE5NNXRFeVNLdDQzTUhOZ3VCNFk4d19HUFpydDRlaXVwMzVrZnIteVhycC0yd2hkY01aX2JXNU5uRF9Vc1RMc0JKSGFNb2hGRVFLbTZTdXhBMkNmSTdrN25mOUJYUEZsVHVGd1hIeU1DNkszTVhhd3FweHFUY0xXYWdTWQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuovo negozio es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "noticia publicada en las últimas 48 horas",
         "señal explícita de apertura",
