@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:37:15+00:00",
+  "updated_at": "2026-10-26T13:03:01+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -353,8 +353,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
