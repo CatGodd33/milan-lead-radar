@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:03:01+00:00",
+  "updated_at": "2026-10-26T21:38:54+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -353,8 +353,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
