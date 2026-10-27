@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:11:45+00:00",
+  "updated_at": "2026-10-27T21:19:36+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -410,6 +410,80 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "df9272f753e3b7e2",
+      "name": "cabina primaria Comasina",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-10-27",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-27T21:19:36+00:00",
+      "source": "L'Arena",
+      "title": "Foto: A2A inaugura a Milano cabina primaria Comasina, benefici per 100mila utenze - L'Arena",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjR3eF83SWpiVDc3VHhfTEZuZk9xRkpScE5PNU9KUVlZWWppRXZmQUNjMlFLS2VCMmFOR0xaa3BrTWpZcVdDdVI3X0lYalNJSlU0SnJDVXBXTTRERzBZY29tYkZ1ek5DZy1abENrWlhjSGxKMlBCVTBPeUk5WlFoNWg1dVVTdWx2czZKRFhNSUFTM2N0ZnVnOFR6QkhwYURqd1VReV9lTW9DOWlfQzFsQmtpNGJYU0NEaHpERDVB?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que cabina primaria Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "3336e0b0759cf32a",
+      "name": "cabina primaria Comasina",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-10-27",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-27T21:19:36+00:00",
+      "source": "Prometeo 360",
+      "title": "A2a inaugura a Milano cabina primaria Comasina - Prometeo 360",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlBENjVsWVZQWk9Dd0FFT09Vb0M5WnFrbHkyVnctd3RRVzU4ekZ0c2lWWUEydGczRkYzNlB2dVhwWWMtTG5sdU5XcG12QTRWLUszRS1MSDVSVW11NWNON0U5Qmw1cHcwaTZ6VTNpMkc1c2F4OFBsQzRGc3ptSVpRMXcyMzU4QWNYbmZmNktoaw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que cabina primaria Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "40cb1f9212f34593",
@@ -2240,6 +2314,45 @@
         "puntuación comercial insuficiente",
         "fecha de apertura no confirmada",
         "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "800d69912e3cd92a",
+      "name": "Lotto",
+      "category": "Otro negocio local",
+      "score": 50,
+      "published": "2026-10-20",
+      "article_age_days": 7,
+      "opening_age_days": 7,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-27T21:19:36+00:00",
+      "source": "PressGiochi",
+      "title": "Lotto: inaugurazione della nuova sala estrazionale di Milano - PressGiochi",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWFIRUZudF92WE9xZ2t2RnRoVS1MV3NnV052MDAyRWF6UWVScHBMSmlYN3RsdHhlMmtIck0ybFlteDNvaGFCYnVGc20zWTZEZ1NsVHBCVzZNSzRGRkRwUEs2UGpLNlNFMWNHSnNPU3pRaFpEM2RqNTdNWHN3N1VLZGg0ZDBSN0h4YkFkRU1hVVhILUxEdm1vZg?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Lotto es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia de las últimas dos semanas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "noticia demasiado antigua",
         "sector sin encaje claro"
       ]
     },
