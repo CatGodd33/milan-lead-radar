@@ -220,6 +220,46 @@
     "status": "Nuevo"
   },
   {
+    "id": "ee1bbdc9d7cb663c",
+    "name": "A Milano una delle osterie più apprezzate ha aperto un",
+    "category": "Bar / Cafeteria",
+    "score": 77,
+    "published": "2026-10-27",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-27T12:11:45+00:00",
+    "source": "Italia a Tavola",
+    "title": "A Milano una delle osterie più apprezzate ha aperto un bar con tavola calda - Italia a Tavola",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQzFEWUJpNTlGYmNBUTVtVjQ4TVF5RUU0Q1lZZmo5anB5bHRVNmV0YnM0ZDVHeWg3Z2R6X0l5Sm9wSXpMTFFWbnd5QlVfUi1WSjZiSHhVZ0xyRXZRMmhnTmhqaEM0eHhteXBfWWF6YjVsRFE3MHZTUHZFNndHYWJZZ1RrS2FFa0tlSkZXRGotMi1WOVJSOFN0NURka216bmo5REthbDVQazdQcDlOZHVLak5zbzNGdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "tarjeta de sellos digital + menú QR",
+    "matched_services": [
+      "tarjeta de sellos digital",
+      "menú QR",
+      "web"
+    ],
+    "opener": "He visto la apertura de A Milano una delle osterie più apprezzate ha aperto un. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para tarjeta de sellos digital",
+      "encaje comercial alto para menú QR"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
+  },
+  {
     "id": "6c06fb3f13775ea8",
     "name": "Milano",
     "category": "Bar / Cafeteria",
@@ -1107,6 +1147,44 @@
       "noticia demasiado antigua",
       "fecha de apertura no confirmada",
       "evidencia de apertura débil"
+    ]
+  },
+  {
+    "id": "be4ab9265d7558d2",
+    "name": "IN ITALIA",
+    "category": "Otro negocio local",
+    "score": 60,
+    "published": "2026-10-22",
+    "article_age_days": 5,
+    "opening_age_days": 5,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-10-27T12:11:45+00:00",
+    "source": "Rivista Beesness",
+    "title": "WINGSTOP DEBUTTA IN ITALIA: A MILANO IL GUSTO INCONTRA L’URBAN CULTURE - Rivista Beesness",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNck0yLTBNY0V4Vl8wNHYtbHdnbzNHaEVJWGRUbHpMd3l4NVdMUFVxY3gxcmZXaG00WHhkVHMtZ01JNHlCemVPWFFIdzZadWUyc1A2U1JSc0x6MXp6WDV1dzRDV3pURFgydDJ0bGJIaUctS3MzSjNDOWR1OVczNzNleWlrUlEtTmdFXzJsRUFBamZYMHlTYVJlUTZvS3lXZUVlczVEZnpyUQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que IN ITALIA es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "sector sin encaje claro"
     ]
   },
   {
