@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4707892,
-    "lon": 9.1844383,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -459,6 +459,43 @@
     "source": "Prometeo 360",
     "title": "A2a inaugura a Milano cabina primaria Comasina - Prometeo 360",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlBENjVsWVZQWk9Dd0FFT09Vb0M5WnFrbHkyVnctd3RRVzU4ekZ0c2lWWUEydGczRkYzNlB2dVhwWWMtTG5sdU5XcG12QTRWLUszRS1MSDVSVW11NWNON0U5Qmw1cHcwaTZ6VTNpMkc1c2F4OFBsQzRGc3ptSVpRMXcyMzU4QWNYbmZmNktoaw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que cabina primaria Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "407a8fd63d59588e",
+    "name": "cabina primaria Comasina",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-10-27",
+    "article_age_days": 1,
+    "opening_age_days": 1,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-10-28T12:54:11+00:00",
+    "source": "L'Adige",
+    "title": "A2A inaugura a Milano cabina primaria Comasina, benefici per 100mila utenze - L'Adige",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa2pJcTVKU1ZGaURHYWpSN042NnlGTER2UjF3YWFFVzhNWF95MXZVam1hMmtsbjRUQ0JWYVd1SDI1a0R3MmJtT3EtTmloYjNBbzNKWlBKLUdTei1FNDRQYThMTGR3TndxaE1rV2hfMnpLV2dDcHlXQVg1ODNFVVlkZlBUUGk3bHU1UkVaaEV3WlB2V3A2Z0tuT2FNdVgydDZTTDFFWVJQRUNQMzhJeUxGUw?oc=5&hl=it&gl=IT&ceid=IT:it",
     "address": "Milano",
     "lat": null,
     "lon": null,
