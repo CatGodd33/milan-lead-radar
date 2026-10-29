@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:39:52+00:00",
+  "updated_at": "2026-10-29T13:00:39+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4579831,
-      "lon": 9.1813918,
+      "lat": 45.4576103,
+      "lon": 9.1815916,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -221,6 +221,46 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "6ba41a9a26cff784",
+      "name": "nuovo posto a Milano",
+      "category": "Bar / Cafeteria",
+      "score": 77,
+      "published": "2026-10-29",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-29T13:00:39+00:00",
+      "source": "CiboToday",
+      "title": "Pizza romana, impasti senza glutine e cocktail. Il pizzaiolo star Luca Pezzetta apre un nuovo posto a Milano - CiboToday",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdXRZSW04MUo3VTM0VDJ4UmFSVU9JbEJaZW5iVlpScTlxZUZqNS1OUHR4d1NxM3M4QXhQb09LMnVaXzk2NkFnMFJUTzNWSEQtWlZzQ3BPMHFaTTlLUVdVc2d0dlhvU0NyT2VuWmcya293cDZsUTAyTThpYjNuem5JRnh30gGCAUFVX3lxTE5fTnZOOUhBNmxKRDVleDFQYTJMcExPc0JDZGh6b2xVczV3ZUlmMTk5eTl6ZEJPZVBEMjJydTc3cGpBYUdpUExxZWFaNkVUQVoxRnM0aG5nLVdKMnF5eVlrM0U2SExfU2xra3lBRmZfMDZtNlZIRkJhVG00TVAtSmRIYXc?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de nuovo posto a Milano. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "ee1bbdc9d7cb663c",
