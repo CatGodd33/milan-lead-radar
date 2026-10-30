@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891995,
-    "lon": 9.1864028,
+    "lat": 45.4891391,
+    "lon": 9.1868221,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -95,8 +95,8 @@
     "title": "Nuova enoteca con piccola cucina",
     "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
     "address": "Via Pioppette 3, Milano",
-    "lat": 45.4579831,
-    "lon": 9.1813918,
+    "lat": 45.4576103,
+    "lon": 9.1815916,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -430,8 +430,8 @@
     "title": "Nuova trattoria in Porta Romana",
     "url": "https://www.trattoriatina.it/",
     "address": "Via Altaguardia 16, Milano",
-    "lat": 45.4502387,
-    "lon": 9.1996247,
+    "lat": 45.4490086,
+    "lon": 9.2000489,
     "emails": [
       "info@trattoriatina.it"
     ],
@@ -447,6 +447,43 @@
       "todavía construyendo reputación pública"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "c0ddcc31ee7c754e",
+    "name": "nuovo Ambassador Store da Stylmec a Milano",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-10-30",
+    "article_age_days": 0,
+    "opening_age_days": 0,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-10-30T21:30:13+00:00",
+    "source": "myMilano",
+    "title": "Design e sartorialità: Twils inaugura il nuovo Ambassador Store da Stylmec a Milano - myMilano",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT195U1dUc1VIaXJDbFNOa1N2S2xpNHExbElVb28tb0VnQllLQ2ZVUnJGX3dPLU9LV05BZmx1THdLR25Fc2R2LUdEVjlvWkMwWHZXUVVsYmFBLXFPb0E5aEVHNzRHcHhCYjFzN3VWWjhwSENkMEliQlc4VjJfaU1vZk9teTYtS1RBV2NWanFzWV8ybTBJVlFDd2RRRTRycWdqcGV6QWp5RW0zZmN3UmdWT2hrVHB1ZGZTY3MyX3BiNUxJTTR4Z2QtU2lBNFQ4NXc?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que nuovo Ambassador Store da Stylmec a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "df9272f753e3b7e2",
