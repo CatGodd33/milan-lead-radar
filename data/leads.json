@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891391,
-    "lon": 9.1868221,
+    "lat": 45.4891995,
+    "lon": 9.1864028,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -95,8 +95,8 @@
     "title": "Nuova enoteca con piccola cucina",
     "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
     "address": "Via Pioppette 3, Milano",
-    "lat": 45.4576103,
-    "lon": 9.1815916,
+    "lat": 45.4579831,
+    "lon": 9.1813918,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4707892,
-    "lon": 9.1844383,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -1729,6 +1729,123 @@
       "sector ideal: bar / cafeteria"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "646bbe66686468af",
+    "name": "Generali Stadium Milano",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-30",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-30T12:55:44+00:00",
+    "source": "Milanodavedere",
+    "title": "Generali Stadium Milano: progetto, posti e apertura prevista - Milanodavedere",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTgwT08zSmNMLTFtd0V6V0xQU1l2ZXhTeUd5bGFEX3dURHJrYmg2U1FGWTBfRWdBWWVBdzlVbUxtaEhfX2NhUWw1MWpGa19OTkpRT1dwUVdwQVhVRUZfZHQwSGtjYnRpS0hOWjM4cWNOX3RoOVRVbXVBcnJlY01sSTRXUEVIQQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Generali Stadium Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "4df1b141df288407",
+    "name": "Futura bis",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-30",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-30T12:55:44+00:00",
+    "source": "Identità Golose Web",
+    "title": "Che successo! Luca Pezzetta (già) raddoppia a Milano, apre la Futura bis - Identità Golose Web",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzNTS2h5YnowNi1tb2l3UlJVeUNZQWY0RG1VY016enFTVGVQSnFzWkpfejFtNkI3Zk9ETDdXSFY4LWJodWZhdTF5aThjQWlXaVJmMmJ2em5kdDJ6dEdHMWpmU0d5VkN0a1dQOHN4emRVWGFkU3Y0cHlqLUpQWFk5cjNUUmJXeHB0ck5SRlc4aU9jdGFpNnA5Z1NidU1qTDNZZWRPOW1mWUhmelBWdGtQQ2JsbmxDMkRWRnZMY2l5eVZ3VDA?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Futura bis es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "6ce018c35a8564f3",
+    "name": "Milano 2027",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-10-28",
+    "article_age_days": 2,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-10-30T12:55:44+00:00",
+    "source": "Nicolaporro.it",
+    "title": "Milano 2027, Majorino favorito come candidato dopo l’apertura nazionale di Schlein a Rifondazione Comunista - Nicolaporro.it",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQkFfT3FHWVRzOFpCUmtjZzBYN2ZfUkVXNDg1N3pxbjV1REd1bVhLcXp1ZmRqUXlYREFrb1hFVldnVm1Jc2o2V2FTNEZhc2lRZEVlSTlvcFN6enEyanBmeGxmWHV1alVpamNIMjNOWGhMa1dhby1WdlpnbEVlSGE5aXg0dUhmMEgzQWsybUpjd0I1OXhzTnYwUXdrYjAtSWdiM2g3TVFhSDNvRUZjanp5dlR2bU05MDEyRk0yQURyUURpODh5TDd6QlJoM3pWOFBwZnhLeEpzZ0ZNdV9MYzQtVEMtR3DSAeoBQVVfeXFMUENxY2FNWGUtSDNBQnFveFJwT0R5UzNnbDItZHVOTG91SmFsTWdBZXZEUklDVkFTT3BvUU5iNWxMaDl2MzktbUtUWmhSVjNuWmZ4b2V2OHdQMUkya2dGUEM2dXgxRWthUXpSM1EzME9hY3pGcHN6U1pjVXZSVzg2UXNkZlhGZTFIbTl4VGg1dGtZSy1VQ3lxTjEtQnpZU2txYW9OcF9jOTNTaG5YTHNxNkRydU5qM0NldnBDUkpRV3hPbjNwVmh1MVJ0MkYwY2lYU0dZNWt4UzZ6QzY4WTdNZGU2M3RPX3VCLWFn?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Milano 2027 es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "aa93f73c535e32af",
