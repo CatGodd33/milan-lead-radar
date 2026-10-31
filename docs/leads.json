@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:30:13+00:00",
+  "updated_at": "2026-10-31T12:29:11+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4715215,
-      "lon": 9.1840827,
+      "lat": 45.4707892,
+      "lon": 9.1844383,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -433,8 +433,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -476,6 +476,43 @@
         "web profesional"
       ],
       "opener": "He visto que nuovo Ambassador Store da Stylmec a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "6e6aa33218cd6f3d",
+      "name": "nuovo flagship store di corso Venezia",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-10-30",
+      "article_age_days": 1,
+      "opening_age_days": 1,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-31T12:29:10+00:00",
+      "source": "Eventi e News",
+      "title": "Moorer inaugura a Milano il nuovo flagship store di corso Venezia, a Milano - Eventi e News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVRKQlBiUTFESmRpQjNDNGpWdlZkb1lVUW54V0FTSGhpNU1FNVMtdS1GZzA2WVdrbnlWSnRSaFdSanE1c2lFM05McXVRNkVTSmtMdmdMZUVKRmdHVzVhV2dBbHFXZHAtZW42NjJEQjU1Wmp6Y3hnYkN3Qk1aQTZRQ3dSZ0JWa0EzcmoyeXZiVzIwcVRtaElyZjJrbGVfMjg?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuovo flagship store di corso Venezia es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "noticia publicada en las últimas 48 horas",
         "señal explícita de apertura",
@@ -1338,6 +1375,44 @@
         "noticia demasiado antigua",
         "fecha de apertura no confirmada",
         "evidencia de apertura débil"
+      ]
+    },
+    {
+      "id": "cc95e4038bdf556a",
+      "name": "cabina primaria in Comasina",
+      "category": "Otro negocio local",
+      "score": 60,
+      "published": "2026-10-27",
+      "article_age_days": 4,
+      "opening_age_days": 4,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-10-31T12:29:11+00:00",
+      "source": "Il Giorno",
+      "title": "A2A inaugura la cabina primaria in Comasina: benefici per 100mila utenze dell’area nord-ovest di Milano - Il Giorno",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQUtLSE1BU2lEbjBZa1czWTFpMWlOQ3JrbzhmMm1DZThhVkNhMWs4ZWM1VUR4RlhCN0RMSW5wM3FWTm1taW5IT0NwTjlhYlBqaXBFeU5TWGw3NmZrY09Yd3MwTEtqSDhwQkdlbF9sUU9MeGEwQlE?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que cabina primaria in Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en los últimos 5 días",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "sector sin encaje claro"
       ]
     },
     {
@@ -2747,6 +2822,45 @@
         "señal explícita de apertura"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "47d675781a5cf6f4",
+      "name": "Assegnati a Milano i TheFork Awards 2026 alle migliori",
+      "category": "Otro negocio local",
+      "score": 48,
+      "published": "2026-10-28",
+      "article_age_days": 3,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-10-31T12:29:11+00:00",
+      "source": "Adnkronos",
+      "title": "Assegnati a Milano i TheFork Awards 2026 alle migliori nuove aperture - Adnkronos",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRWJpdjlsU0ppVE1oYkxZRC01bk4wc05xeHNVUk9SSkFqZU1fMF9BY1I3TGt3akxWWkktMG1HS0l4UzNZRS1RU29nTjVWMm1VaFdLeElEZkRoM1MtRUpuOE1jQ0lhS29Ob245cUxXc3lfc1RMQ0w5VlZQR2dvRHFkWlFjQ3d2cDBMdFk1WU9rVWx1dS0zWEw0Q0dOVGJGODJrdnZYV01hSGJQMWpxUWxCSzFrR3NDMjZidnJvT1J0VGNqX2NqdTk2MQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Assegnati a Milano i TheFork Awards 2026 alle migliori es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en los últimos 5 días",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "86bf3262178ee0b3",
