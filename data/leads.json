@@ -95,8 +95,8 @@
     "title": "Nuova enoteca con piccola cucina",
     "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
     "address": "Via Pioppette 3, Milano",
-    "lat": 45.4576103,
-    "lon": 9.1815916,
+    "lat": 45.4579831,
+    "lon": 9.1813918,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -447,6 +447,120 @@
       "todavía construyendo reputación pública"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "28070b75229bebcf",
+    "name": "secondo locale a Milano e punta sul senza glutine",
+    "category": "Ristorante",
+    "score": 75,
+    "published": "2026-11-02",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-02T15:51:43+00:00",
+    "source": "HorecaNews",
+    "title": "Futura Pizzeria Romana apre il secondo locale a Milano e punta sul senza glutine - HorecaNews",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3NxZEdzRExnR1VqUXdrb0VsUDRteHpCeVBEWjRFRk53NElEZEx3TTBkVm5ickI3Qk1iZnNvUGRneEFHWm9vVDNPQ29acmFVMFhNMUhyaFZweWc5QllpLWlHMGUzaVFzd0tTTEJZWGZZRThoRmh2aElYV1JPNEtrbTV0NXBLZG15OVNoMk1hUTF1QXFLRzl0ckZIQ3RpN3l2dkp2Mw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que secondo locale a Milano e punta sul senza glutine acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
+  },
+  {
+    "id": "45f503e56cb2b72c",
+    "name": "i voli nazionali",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-02",
+    "article_age_days": 0,
+    "opening_age_days": 0,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-02T15:51:43+00:00",
+    "source": "La Novità Online",
+    "title": "Lamezia | Wizz Air inaugura i voli nazionali: Roma, Milano e Torino più vicine alla Calabria - La Novità Online",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBRakhCOTRMYWVhV252SnVhc3ZWZ3RKcEJ3UXg2bzlTdU9xa203N3pwUkpfVENjbGpXc2FFOUl6SnlJUl9kRGtKUXl1NUlwc0NHSm15ZkZ3U1VGd2RMeUJfM3pGTS1pNFdLeXlVdHVMRVItMUl5a3NUSE95cW5XMjVSaTR4UTFpX1VHN3hSbDAwU2c4bHllTlZjSTRGVXozQm53TlhJT294bkdObXJXZnJXY1lWdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que i voli nazionali es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "43843d830d7152bc",
+    "name": "magia del Natale nel cuore di Milano",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-01",
+    "article_age_days": 1,
+    "opening_age_days": 1,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-02T15:51:43+00:00",
+    "source": "myMilano",
+    "title": "Christmas Factory 2026: Rinascente inaugura la magia del Natale nel cuore di Milano - myMilano",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDJwclZpRmVvS2FZR2JGOWlMNFJLcHBZWllnVU1kVWFKdUp1cHFEakZVbFNsekZLc3M1SGNXM0M0eHVhdlhZcXpHS1laMUpKN0VvaUNZOHFDbEJIVFlwODQ0WDhrN2dWT1NLbjZNVENrNjRKcTZhSUw4Q3RpYnRRbGVzOXUyWXhySHdRa29RYXFHaXBNRi1ZWWMwVzVEYVE2MU5qTGVkTm45VGZYYzlSbzc3UHFhTDVPSEVvUm9SOFB1U3RLZGxHcThnQW9XT1k?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que magia del Natale nel cuore di Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "c0ddcc31ee7c754e",
@@ -2734,6 +2848,123 @@
       "puntuación comercial insuficiente",
       "fecha de apertura no confirmada",
       "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "24aa29c2cce54edb",
+    "name": "cabina primaria Comasina",
+    "category": "Otro negocio local",
+    "score": 50,
+    "published": "2026-10-27",
+    "article_age_days": 6,
+    "opening_age_days": 6,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-02T15:51:44+00:00",
+    "source": "ANSA",
+    "title": "A2A inaugura a Milano cabina primaria Comasina, benefici per 100mila utenze - ANSA",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbXVQUDM4d0xUMktPWUJGYmlXaldNWnRlemhQSWlkZTl2UGRqNVRaVEd4a1NnbmJkeURhVjdxaXpVWEx4VWhFdjRGdzA2d1dBNUd3S2d4aEM3WG9xNTc4cWp2dzc0YlN2R3lhT1RtRUZWUjdja1VHYkgzYTlfUjVkY0o1Njl2NkNOSlNrNnM2c2pycDBra3NpcTR6c21qSG1OVk9McTBMZFBNNHB5QlA1T1NMQnlsNHNIV3Q2cmtvQjJoVEVDVDQ2bm1sRmFwTXppUGdvdGgwTnhneW5ZLWpYZUQzQ3E0aWE5T1pUemdsNnB5NmNFbWthYy1MTU1JWmdJOEkxTg?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que cabina primaria Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia de las últimas dos semanas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "a7e7983b5fe39ca6",
+    "name": "cabina primaria Comasina",
+    "category": "Otro negocio local",
+    "score": 50,
+    "published": "2026-10-27",
+    "article_age_days": 6,
+    "opening_age_days": 6,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-02T15:51:44+00:00",
+    "source": "ANSA",
+    "title": "A2A inaugura a Milano cabina primaria Comasina, benefici per 100mila utenze - ANSA",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS2N3N2VBRXYzcjh2dnROLVBjdUd3eVZyZkFsMGFLQzNsaDlNSHluRzNSaE5VU2ZzZFIzQUlZV3NUdFQyeWQ5Zlp0Q0l1dGxvMG44RFMtOEJNY2dzcVlpYzQyQklZck1PZjhtdDNxNjRaRl9KWUxmdXFnT1I0aFRpcGNnck82TlpTQ19qbzBNX2p0Rnd3VE4teTBzM3d5TnFGZExVRE5feXdNZWRfME5CVExwTkkxLVNKUTBpMjZEcS0wRENsRm42RW1ZdEc3NXFMMk5xWWRJakdDN3M1T2VJWFphX29WdjZ1ZUYxT0JLTVRnd3Z1ZUkzNGd5UXlFT0U?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que cabina primaria Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia de las últimas dos semanas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "bb30c91b47b55648",
+    "name": "cabina primaria Comasina",
+    "category": "Otro negocio local",
+    "score": 50,
+    "published": "2026-10-27",
+    "article_age_days": 6,
+    "opening_age_days": 6,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-02T15:51:44+00:00",
+    "source": "ANSA",
+    "title": "A2A inaugura a Milano cabina primaria Comasina, benefici per 100mila utenze - ANSA",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc19UTlA0ZWQ5ZHZDWlF2UjR5U1B0U3ZsZnR5Ql9iR0lWYUxLREc1bkg2NDBCcTczaXdhVlpmQUhJUzZtSGhoQktNTzgyeEdxUFVEem1XT1hYcmJoYnVjeTc3Z1BMaDE5dTVVdG40Y05sZUhBSkM2OWZLZDhUZ3kwS3BMTlhXTmdNeDZJVDlyVHNhMVNMZnE5eGRySGJTUmkxTXNDd2t0dFV4ZzAtdDhHTEVRMGdPYzJhRTZPOWdoSklTRDVSQ1Z6QUY5TGltbllmZVlVYTB2djRhTVY0LVRiU2htak93Zk1GR3lhX25iZ2NyS2NSd0FYONIB_gFBVV95cUxPOUZxUXdJMmtTdzczdGItamlXdG9yNGUwY0FUbkZSNEtoaklJWEJDSE5JWnIydXp1dHpseUJjZC02UXQ2T0VYWUVHU2UyTlh5dDFTZDd5dlFITXZMOFVDNHlUeWZDd0t1YUtaRXRrSl9XaWNrRXJsd3otYVBmYi1ONTUwQkZNTlRyYWxtZXZjQ3M4ZjZVS3JidnNHdzJHN0R4RjExcF9mbkpoUTIzdkRnWXpDaGdWZWljR2UzWDg5UmhidkJSQU9yZkR3ZXJLY3RmRmZKSlJoVWR5YVlIR2ZyTE9tcmVTOUZwTmVZNElBN0tqVmd6V2RQRGxHQWtRQQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que cabina primaria Comasina es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia de las últimas dos semanas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
       "sector sin encaje claro"
     ]
   },
