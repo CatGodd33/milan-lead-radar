@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:51:44+00:00",
+  "updated_at": "2026-11-02T23:53:12+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891995,
-      "lon": 9.1864028,
+      "lat": 45.4891391,
+      "lon": 9.1868221,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4579831,
-      "lon": 9.1813918,
+      "lat": 45.4576103,
+      "lon": 9.1815916,
       "emails": [],
       "phones": [],
       "instagram": [],
