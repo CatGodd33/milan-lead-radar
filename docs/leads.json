@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T14:32:34+00:00",
+  "updated_at": "2026-11-04T22:38:12+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4576103,
-      "lon": 9.1815916,
+      "lat": 45.4579831,
+      "lon": 9.1813918,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4715215,
+      "lon": 9.1840827,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -433,8 +433,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -465,6 +465,46 @@
       "source": "Italia a Tavola",
       "title": "Bastianich apre un nuovo ristorante a Milano: salgono a 11 i suoi locali in Italia - Italia a Tavola",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcEl6b1RySHFCa0RaTkFXek1KS1hibmNOSHRQQ1ZvcWZZSG9nN3lZTHNMX2pYdmhQT3FnVk5OajJhZ0QzdXprdFh5OVhVOVJ0czNtdExDMFFfZnVLVEcwYWh6WnlvbkxuRmpFQ0hrODlBTjdOb1FqaFRhVExHMHhGTGhheHo0VG91clQ0cVFLQVJOVTRTVjFoVm85UjVGQUhkYUQ5dkVrR2lEVE9uZ2pQTTZWVDNaXzZtR1JNcC1WZ1dfYy1FclBPdnNCZlA0VU0xNDRwRA?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que nuovo ristorante a Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
+    },
+    {
+      "id": "2386e17c5b1740a8",
+      "name": "nuovo ristorante a Milano",
+      "category": "Ristorante",
+      "score": 75,
+      "published": "2026-11-04",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-04T22:38:12+00:00",
+      "source": "Italia a Tavola",
+      "title": "Bastianich apre un nuovo ristorante a Milano: salgono a 12 i suoi locali in Italia - Italia a Tavola",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQy1PMHV1MmJNel9NQ2pjR2d4S2FEODYyVnhudXd4eGY2WFVrbk4zSG1jQW0zaVh0ZWY0MGxRRzRpNkVQTkUya2VFZjdrNUlwTXo1M05Ed0ZKSTdHWlF1VG1HMWVlYXhjeFpaTmYyRFJMc1NDQlpqeDZ6X1pzMTNmemlJdGh2WEFaRTlmMl81ZkZJRnZuTE5qWWtqVFZYY0hQRkhMWGdybFVFcEZtcnpETmpQMV9JWldlNS12RnFSOTdCaUN4ejlXVC1NVFlUdkp5aXQzWg?oc=5&hl=it&gl=IT&ceid=IT:it",
       "address": "Milano",
       "lat": null,
       "lon": null,
