@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T22:18:47+00:00",
+  "updated_at": "2026-11-04T14:32:34+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4579831,
-      "lon": 9.1813918,
+      "lat": 45.4576103,
+      "lon": 9.1815916,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -450,6 +450,46 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "1cbdbfcb9113065f",
+      "name": "nuovo ristorante a Milano",
+      "category": "Ristorante",
+      "score": 75,
+      "published": "2026-11-04",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-04T14:32:34+00:00",
+      "source": "Italia a Tavola",
+      "title": "Bastianich apre un nuovo ristorante a Milano: salgono a 11 i suoi locali in Italia - Italia a Tavola",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcEl6b1RySHFCa0RaTkFXek1KS1hibmNOSHRQQ1ZvcWZZSG9nN3lZTHNMX2pYdmhQT3FnVk5OajJhZ0QzdXprdFh5OVhVOVJ0czNtdExDMFFfZnVLVEcwYWh6WnlvbkxuRmpFQ0hrODlBTjdOb1FqaFRhVExHMHhGTGhheHo0VG91clQ0cVFLQVJOVTRTVjFoVm85UjVGQUhkYUQ5dkVrR2lEVE9uZ2pQTTZWVDNaXzZtR1JNcC1WZ1dfYy1FclBPdnNCZlA0VU0xNDRwRA?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que nuovo ristorante a Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "28070b75229bebcf",
@@ -1783,6 +1823,48 @@
         "lenguaje de apertura inmediata"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "7d2277fb0e3f2be0",
+      "name": "nuovo bar Milano (e ne arriverà un altro)",
+      "category": "Bar / Cafeteria",
+      "score": 57,
+      "published": "2026-11-04",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-04T14:32:34+00:00",
+      "source": "MilanoToday",
+      "title": "Esselunga apre un nuovo bar Milano (e ne arriverà un altro): scatta la selezione del personale - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXg3TEVDUENnX0RyQVhlNGtBM1pER3lKLUNHOTNUc2tPamRvX3NYWWFFUndQV0sySnR4TXZqcHFzamduYVhNNzdYcmNpcF9GbGtaajJ0NDM1cV9fVTJuQ2Q3VjhmMmNXZUZ1ZHdaNEZwX0dFNFY3dS1RU2tCODgyOGhVWXpKRHdMMGRNNG1VZUJ3WkdiOHBxZ1BQRlhTMjJJQUE?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de nuovo bar Milano (e ne arriverà un altro). Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR",
+        "empresa grande: venta potencialmente más lenta"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "13612979a4ba9267",
