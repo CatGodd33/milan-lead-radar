@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:38:12+00:00",
+  "updated_at": "2026-11-05T14:39:45+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -98,8 +98,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4579831,
-      "lon": 9.1813918,
+      "lat": 45.4576103,
+      "lon": 9.1815916,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4715215,
-      "lon": 9.1840827,
+      "lat": 45.4707892,
+      "lon": 9.1844383,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -529,6 +529,43 @@
       "alert_notes": [
         "fecha de apertura no confirmada",
         "evidencia de apertura débil"
+      ]
+    },
+    {
+      "id": "6e78b3b35816bce9",
+      "name": "nuovo edificio di Via delle Orsole 4",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-11-04",
+      "article_age_days": 1,
+      "opening_age_days": 1,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-11-05T14:39:45+00:00",
+      "source": "Europa nel Mondo",
+      "title": "La Camera di commercio di Milano Monza Brianza Lodi inaugura il nuovo edificio di Via delle Orsole 4 - Europa nel Mondo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkE4QzRfSlBLdFhJLUpRdmlXY3hLdU02NnBYZjdVMG05OEpqam1Sd09NQWd1UEp1dllHeFAxcnc2eWxIV0NJTkVEWHZJT2RudTdUTDdDSkN4VHVNSVFfZ0JhamFRb0FySXpaNlBmdTktbTFvZG1rQ2hoYXpNc2lZNXRGYWZtdTJqdG5oZFVVYVo5ekVDQUJReFRuMlBDdDN5NUwwREpUQWtBbjktTF9DMVU4dXZ5cnNrdFBsMFRQTVh4c1g0SHlVMGx3RFJhQ1VQazJZYXVwTkE5dw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que nuovo edificio di Via delle Orsole 4 es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
       ]
     },
     {
@@ -2080,6 +2117,48 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "8fce04340b1e0834",
+      "name": "Ora bistrot e caffetteria Sarà il ristorante dell' hote",
+      "category": "Ristorante",
+      "score": 55,
+      "published": "2026-11-04",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-05T14:39:45+00:00",
+      "source": "Zazoom Social News",
+      "title": "I fratelli Capitaneo portano l' alta cucina alla Stazione Centrale di Milano | apre Ora bistrot e caffetteria Sarà il ristorante dell' hotel Hilton - Zazoom Social News",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUWNWVnlHTU5FM1ZuVXE3RF9ZYmtMYUpqREJ6RVNwd3BEZVU5amF4M3BwWjdscW9vRGNHZWNDaW90c1p6bUktQkZYbGcyUG81UnhKd2VjZUhLdXpIblZSQUFzM21xN0otQkVSLUdaMDAwYmxBOWlyWkdiaW9OSjA2SFI1RVl2Vll1dWdLR29UZlJicDg4RXdMQ3pVLUlibFZnN2dyRGhsZW95dnd3TENINXdsSlNQMThpVF9MdGdrVjhsQXdHb094MjZmc3gzaDdvX3VaakFUOEl1WXZ5dk8xYmM0bjR6YU9SM3NXZ21HVG9Idng5bUVhVEs4Q2J2VU5Nb2V2LTAzRnU3bkJXYkFnRU1n?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que Ora bistrot e caffetteria Sarà il ristorante dell' hote acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas",
+        "empresa grande: venta potencialmente más lenta"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "3d550a1c6946e302",
