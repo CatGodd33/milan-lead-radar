@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:16:20+00:00",
+  "updated_at": "2026-11-06T22:07:26+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4715215,
+      "lon": 9.1840827,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -2154,6 +2154,84 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "7020ccf1eda7a04b",
+      "name": "Cercare lavoro nel centro commerciale",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-06",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-06T22:07:26+00:00",
+      "source": "MilanoToday",
+      "title": "Cercare lavoro nel centro commerciale: dove ha (ri)aperto il centro di orientamento dell'area di Milano - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVBjWmltZ205NTlXSWwtLU1aLTVfVGJ4bHJIdkh2X2R0eVVLYmxKT0JBaGkybGZ0N0FGYnlDYjFDdzVfcVdTSHlEdlpwenppdFpudXU2MG96M0pQd2YybElDUUxHZy1FNnFsSDBrV0N6OXlnTjhyWU5hanJoSER4ZzZpd2hydWVEenppbWczRVlSUjBPcFhxekg3bUY?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Cercare lavoro nel centro commerciale es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "6a1feda65e9be185",
+      "name": "A Milano primo weekend di apertura per la mostra disegn",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-06",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-06T22:07:26+00:00",
+      "source": "Sky Arte",
+      "title": "A Milano primo weekend di apertura per la mostra disegnata da Rem Koolhaas - Sky Arte",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHVSbDU0b1JjSklrWHFfcUd5Q2VRNml2NGo2MzMzdlFaa2pzSWd0bjlYdDZJY0E4VVJ1YXFEUmZ4aGluWnNsR21UTHZWQjI2TXFjRzk3eC1TRDM1TURPa05IMlN0SzNCM3g4OExGOXNoT1dSOXN1T1VEbUd6MG5SSTJYdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que A Milano primo weekend di apertura per la mostra disegn es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "8fce04340b1e0834",
