@@ -10,8 +10,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891391,
-    "lon": 9.1868221,
+    "lat": 45.4891995,
+    "lon": 9.1864028,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -447,6 +447,80 @@
       "todavía construyendo reputación pública"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "8441948c07ee9e64",
+    "name": "Lavori sulla Tangenziale Est",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-08",
+    "article_age_days": 0,
+    "opening_age_days": 0,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-08T13:25:04+00:00",
+    "source": "Milano Post",
+    "title": "Lavori sulla Tangenziale Est: chiusi gli svincoli per la Cassanese e inaugurazione della nuova superstrada - Milano Post",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOWVwenpBTy0wR2VtOWwwRnRhRVFCTmNlRGllS1pJWXJqUFhraGUxLWVEbDRxX25kM1BSZjlqdHh3NU5BZmJpUDlKZ3JUdVp3UkF4bVhfbVllQkxLa1E3UktyRWFkcG9LR2xqcnVTSXRlZ0prVzJ0b0wwZnduSFR1RjBESVlMMno2WC1ObnE3N1VsdUgxZjNlYWVXc2E3aEp0anFHcHFvWEJaREQ5Q2paOTFQU3Z5LTFXTGR3R3Z0d3RSVEwycVlsWWF2Rjl6NE0tY0JKSll6bE9zSE9vaUE?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Lavori sulla Tangenziale Est es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "218a908dac39d1c9",
+    "name": "campo sportivo della sua ex scuola media alla Barona",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-07",
+    "article_age_days": 1,
+    "opening_age_days": 1,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-08T13:25:04+00:00",
+    "source": "Eventi e News",
+    "title": "Milano, Marracash inaugura il campo sportivo della sua ex scuola media alla Barona - Eventi e News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmdNN09sVEE5X3IwSEY1Rk9QZ1E5bnIxQlhrazlRZzl1SkxWOHRIM1JQVlo1Ql8yRjJsTHJXZnhkLXJaZ0dkR2piTmx2YUNNd0hhMGhlUWxpaGpCVzNMQVQxcUZzMGh4czJBbEg4NWU1TUExQUcwM3NnSlhEV05DV19adXNIUHcxZ3A2bUJMSWtxRXFKMXdrUXNFNUU5SkNOWWk5NUtmNHg?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que campo sportivo della sua ex scuola media alla Barona es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "1cbdbfcb9113065f",
@@ -1416,6 +1490,46 @@
       "contacto directo disponible"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "87edb1ca805bbd52",
+    "name": "Portland",
+    "category": "Bar / Cafeteria",
+    "score": 70,
+    "published": "2026-11-03",
+    "article_age_days": 5,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-08T13:25:04+00:00",
+    "source": "Living Corriere",
+    "title": "A Milano apre Portland, bar in Città Studi che guarda agli Anni 80 - Living Corriere",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaXBHRUlmLXdZY1hyTmw3Z0FIcXZRY09MSm1URDlhbDlUTlp0V1BjRDFYT1R2azhWc2RUOWxHcVBSbHktSTd2eHNLdldZSmU4aUNPQ0pZNjNuZFN3aTJacEVudDkxTENXQmNOdk9oc2ZiSjlTRkxKS0hMT2piamx3VURtZ3lvajZUX2c?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "tarjeta de sellos digital + menú QR",
+    "matched_services": [
+      "tarjeta de sellos digital",
+      "menú QR",
+      "web"
+    ],
+    "opener": "He visto la apertura de Portland. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para tarjeta de sellos digital",
+      "encaje comercial alto para menú QR"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
   },
   {
     "id": "03df24159f4f5767",
