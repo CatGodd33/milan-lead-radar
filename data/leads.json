@@ -120,8 +120,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4707892,
-    "lon": 9.1844383,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -510,6 +510,43 @@
       "web profesional"
     ],
     "opener": "He visto que campo sportivo della sua ex scuola media alla Barona es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "cdbeb5636170a5c3",
+    "name": "campo sportivo del quartiere Barona",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-07",
+    "article_age_days": 3,
+    "opening_age_days": 3,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-10T14:53:10+00:00",
+    "source": "L'Arena",
+    "title": "Video: Milano, Marracash inaugura il campo sportivo del quartiere Barona - L'Arena",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2RHaGFHLWY4d3RsUWFEN3lleGJRbmhWSWJBeGxUc2VOUEoyc3c4eXJMOVFMMTN2S1dkUVJzOVZUTzhNVWl5Yzlkb1ljekVDM1lRQTE1UWhyQ1dlU1BLQi05NE5FcGdSbXlGUGgtSVBkR3dQMzR5RUdPelZDeDI2Zl9UM21MaFpKNURmWkNvWWs3b0ZWWHVyUWF0MGpHUHB4WTNxSDV2bDRNRlJlcXlJQXhuWnFteEZiSkpvendRdW1ESkdMV0QtdHdxN0k4aFY1NGF6MHBB?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que campo sportivo del quartiere Barona es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
     "reasons": [
       "noticia publicada en las últimas 48 horas",
       "señal explícita de apertura",
@@ -3636,6 +3673,49 @@
       "señal explícita de apertura"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "b8cabfe1c2f5820e",
+    "name": "«Ora»",
+    "category": "Ristorante",
+    "score": 48,
+    "published": "2026-11-04",
+    "article_age_days": 6,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-10T14:53:10+00:00",
+    "source": "Corriere Milano",
+    "title": "I fratelli Capitaneo portano l'alta cucina alla Stazione Centrale di Milano: apre «Ora», bistrot e caffetteria. Sarà il ristorante dell'hotel Hilton - Corriere Milano",
+    "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNajdNQW0xdlN6MXNOcjQ3dFprTnVwTGNQS2hqdm9IQ2d0ZVZ1WkQtM0JkeUdXT24xbzdYRW5tNjZJdlhTT0t0Zko0WjU2ejMxSnVocEtzaE9yRXNBczBicW1UaWhseng1Vy1SSUc3Q09pM1ZhY3VtcTNqemwtdGVPTUI5THpxcFhrQkRwQXAtN3duWFNJSVlZMmRrRlZuN2RMd0MwS1dGSXh4aHgwdFF4dkc4bjVYQmtIRkpnOE8zalRoeG8tSkFLbHdieWtTR2daM1FMYlI1UXktbTNndG80WkZkNzRhc3FMOGNBRU1PMGs4V2pXb0tFdGRzd3R3VmFrRWpmTkgtN3BBSmtSR3Bnam9KOUpyTFZ6SzNXY0JYeTdvcVJUUjl6M3Rlby0zdHBHcmZLN2FhakVDMU9kdHJsT09Qd1A0N1hoU2fSAc8CQVVfeXFMTXl3a2hhbWstemZXcmFZUW5zbVJYdmUyd2JOVm1iQUlrcWtuTERUVm9vQXNmamFUYThnVTl3cEhmNHFYUTh1YkhKQTB4SnNjSlBFUzV6ZzFPZ1prZzRxeHlqdU51VU9XNkozb0JNRkV2MW9UTWNnanZ4N1pTdFBPdWcwcFVsRTR3TkpSVTVjcGk2RkxDVU1CMTdSVUxaaDd0RzBZSnRGLThaelkxTHYtclgwOTlCWkFtS3JVaFBWSjhCbjZoVkxfblNPNGxjTC12WG5lTUhuLXF4cWw3NlBsOUctTUduNzBoQjZTZWExZ1pmR3lEeDM3amxfMVdPRXppay03OVpOZTlvNW9BaWhNOGlGUXR4SU05OUVfN1hLc3pPNlM0MVZQaFZacExnOEZ2QWdVUjZnSzdJeG1iaW1PT3hqSGtRV3lPeU9GTGNESzQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que «Ora» acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas",
+      "empresa grande: venta potencialmente más lenta"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
   },
   {
     "id": "47d675781a5cf6f4",
