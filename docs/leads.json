@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:53:10+00:00",
+  "updated_at": "2026-11-10T22:22:22+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -433,8 +433,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -2305,6 +2305,45 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "776d476cfc797f34",
+      "name": "| TEN",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-10",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-10T22:22:22+00:00",
+      "source": "DiyandGarden",
+      "title": "Giozi Home Vibes apre a Milano | TEN - DiyandGarden",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON05oMG56aVpFNm0yeExzV09MOGNJbE5LSmFDYmhyQVp4WVZDZWJ0YnZwZVR1cWZ0aTVyZ1lWN29YN1RESEVaR1MxNVh2YjRQbzVMOVBXb2NMdXlWOEZ5RE53T2tuYkR0a256bVpySnhYX1p2MTkyd3g5VDhNdklKa29HLW5lSXRqWURmX3g4YW96SEhVbHFiYTBjNTQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que | TEN es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "7020ccf1eda7a04b",
