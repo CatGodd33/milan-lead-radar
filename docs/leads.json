@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:22:22+00:00",
+  "updated_at": "2026-11-11T14:22:39+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -433,8 +433,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -1755,6 +1755,46 @@
       ]
     },
     {
+      "id": "2e2922f64976347d",
+      "name": "Borse oggi in diretta | Ftse Mib stabile",
+      "category": "Otro negocio local",
+      "score": 65,
+      "published": "2026-11-11",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-11T14:22:39+00:00",
+      "source": "Milano Finanza",
+      "title": "Borse oggi in diretta | Ftse Mib stabile, spicca Technoprobe +7,6% in scia a CoreWeave (+17% in pre apertura a Wall Street) - Milano Finanza",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMHpwVE9BUm5OOXd5UE91c2dyaXlrZXc3MzAwS25TYkVwWjlOS0JJdjdmWkxGNVdyUlJKZDdqemVYYVZuT0E0OEZmQ3p1cVgyVDhGV19QU1NqandONWRMN2g2SmJ1dlEtNnotVElZOGJqbDNkR2xDQXNGTkZLYk0xSktNR1lDMEZCREZxaDR6QkhnOFhjUmd6OGlVcHd4dnNwUUhqZXI2dTIwSkhWSFFfanpydlA4QmdhTk5HYWJibTdvZWlzXzNVOWFXdjlTcE9pT3Nfbk5mc29UMGVCVjNzcGdKX2c?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Borse oggi in diretta | Ftse Mib stabile es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "lenguaje de apertura inmediata",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
       "id": "2c93c89b47cdf3e4",
       "name": "pop up",
       "category": "Belleza",
@@ -2305,6 +2345,45 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "c695cd35e322095e",
+      "name": "Borsa di Milano",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-11",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-11T14:22:39+00:00",
+      "source": "Corriere dell'Economia",
+      "title": "Borsa di Milano: apertura molto positiva. Poi calo nella mattinata. Al giro di boa +0,13% (11.11.2026) - Corriere dell'Economia",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEpZc2xWUndsRm9VbmM5SmZrTlBvb19KU1ZiSnQ3V1dueWhWSXFmRk5iOXZMZ2NabTJ5WTJRVDdia1pNYk51aU5hXzJxZ19Zc1FSMGd4RFpOdklDdU91dmdabEZsUUdwWXM2VEtyRDJ5MDhwaUJZNXIwbmtZQ0xEYktHNXFseEhZcW5IbXlscTVoWi1QWFhMOFY0RnhUZVdSbjhiSmduM0RObm1aZTZWQVlQVXh5cVNvVzVRMnRNU0I5cklWWEVOWUhyUDVydHRiM3pIc3E1Wnpsdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Borsa di Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "776d476cfc797f34",
