@@ -2344,6 +2344,45 @@
     "status": "Nuevo"
   },
   {
+    "id": "d90e83ea63290f9e",
+    "name": "due nuovi locali nelle stazioni di Roma e Milano",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-11-12",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-12T15:15:08+00:00",
+    "source": "Virgilio InItalia",
+    "title": "Massari apre due nuovi locali nelle stazioni di Roma e Milano - Virgilio InItalia",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWdjMkZoWVJLSmE2M3pQUE1WOHpvLTY0Z2VKZGRzUlhrY0cxX2kyTlFyM042ZDNhQnJTODlsWFlLRkR0WC1QVGpyTWloamg5NDN4Yzl3TnJlRGswRnZWX2NFYlJUTmJFOUkxLXZfVF9vTDk3Ql8yaElncnJHVnloaDlPMNIBiAFBVV95cUxPVWU4N2F1SjFyNXRqVWI3Zk5HWEFiRndSek4zN2NELVhQZUh6WXBxY2Z3U3NGY052Q19yX1p3VmZQLU1SYmN6UklBRF9KTHhZem0zQkpfeDliT1FoMHFFTV9jTktnTVJzUFVIVHJfYXhQVllXXzhzSGRDVGc5QzVONjVEd0RZTW5p?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que due nuovi locali nelle stazioni di Roma e Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
     "id": "c695cd35e322095e",
     "name": "Borsa di Milano",
     "category": "Otro negocio local",
