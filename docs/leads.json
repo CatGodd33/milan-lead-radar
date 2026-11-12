@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:15:08+00:00",
+  "updated_at": "2026-11-12T22:43:54+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -450,6 +450,43 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "c32de142e9195680",
+      "name": "Sea Signora",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-11-12",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-11-12T22:43:53+00:00",
+      "source": "Wine Pambianco",
+      "title": "Sea Signora, oltre 2 milioni di ricavi a Milano. Nuova apertura nel 2027 - Wine Pambianco",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1E2VnFUdjlRbVdiRW0xaW9rNU5XamlxZ1dDdm85VXpXLXlydGZSNnlLZVRSR0otYXdhNTJ3OEY3WHc3TDJCLU1xOVRwYWJjM28xemtERHVONUVHR0VGVlR0dml4aWQ5anZIeFUzMGNiY1R4ak5fN3JaTnllYmRLVkpRclF6SDJQVmppOElEQ0s2c0pyRUZfNUt4OTdhWUxPQWJOYkEwQ29zZVdxWDRBTldVNThXdnRE?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Sea Signora es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "8441948c07ee9e64",
@@ -1670,6 +1707,47 @@
         "sector ideal: ristorante"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "abca089b7f456e15",
+      "name": "Ristorante Solferino a Milano aperto per tutto dicembre",
+      "category": "Ristorante",
+      "score": 68,
+      "published": "2026-11-09",
+      "article_age_days": 3,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-12T22:43:54+00:00",
+      "source": "Cavalierenews",
+      "title": "Ristorante Solferino a Milano aperto per tutto dicembre e per le festivita natalizie: pranzi, cene ed eccellenza culinaria nel cuore di Brera - Cavalierenews",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQalVjZWpDcWo1VURLUGlHQktJOWF1N2hYUFJySE1jY2Fhb2ZCbl84d3NJWDEwazFPYUZVTGs4alpwNlRUeHlqaHROSnJlemt1SklXR1UzbnZtSV9KOV9teXdrdTNPY1V6b1hVZ0E0S3FPaHkzTFZEb2g0RDN2QmhKTm9DaGdWV0NBTng2MENsTWxLY2tVYmRsVUc2S0tzMGlaUXh0c0k3ZzJBakNvbzVuclBHd2NsZGxmcTJuclhZUUFpTGY3MU1fQkFEWnRRNWxwREZvYlNwNUl6czlaQV9iNjZjLUFSY0JmN2ZycWx1eUFyaC03SGFRNQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que Ristorante Solferino a Milano aperto per tutto dicembre acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en los últimos 5 días",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "521531251568bd43",
