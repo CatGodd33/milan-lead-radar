@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:43:54+00:00",
+  "updated_at": "2026-11-13T14:34:41+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4712024,
+      "lon": 9.1842134,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -2423,6 +2423,45 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "1a6f3311fdfd1fcf",
+      "name": "Borsa Milano. Apertura sul pari (o quasi) (13.11.2026)",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-13",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-13T14:34:41+00:00",
+      "source": "Corriere dell'Economia",
+      "title": "Borsa Milano. Apertura sul pari (o quasi) (13.11.2026) - Corriere dell'Economia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXlCOGo2WDlPS2U4elJzNTNoTHV0dHhGSXVsRzVIZ09TMVlaUHZram5OZDBRUTVHb2d6VXltV3JVeHRrUnZrbEVyT3lya0tmNEowekxURTFUbU9nSEN5SUZmOHRKX08xN1VzemFkaDNObkJUMFd1dmdpZ0sxV3ZmOWFTUkgxZDBhTXVCOGl6b1A5SGlua2YzUmp3LTE3QQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Borsa Milano. Apertura sul pari (o quasi) (13.11.2026) es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "d90e83ea63290f9e",
