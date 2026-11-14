@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:37:29+00:00",
+  "updated_at": "2026-11-14T13:30:40+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -13,8 +13,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891391,
-      "lon": 9.1868221,
+      "lat": 45.4891995,
+      "lon": 9.1864028,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -123,8 +123,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4712024,
-      "lon": 9.1842134,
+      "lat": 45.4715215,
+      "lon": 9.1840827,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -221,6 +221,46 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "31278d96d67a6fd9",
+      "name": "primo MONIN Studio italiano",
+      "category": "Bar / Cafeteria",
+      "score": 77,
+      "published": "2026-11-13",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-14T13:30:40+00:00",
+      "source": "Beverfood.com",
+      "title": "Dal cappuccino al cocktail: apre a Milano il primo MONIN Studio italiano - Beverfood.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91V2dqZnVHeXdXbWVKNzNMQTRtV2tpeVQ2T0RtczhhNEZMYTFkX3paaEJqaVJncEcwc2ZjQmdjRW92TThWVC02cHpIQ2dmMzFZZ1Z1dWpzTVdJZ2FIV2toQktfcklZMXhkVE5HZlNqcFk?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de primo MONIN Studio italiano. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "6ba41a9a26cff784",
@@ -433,8 +473,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -450,6 +490,46 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "3b272b6c803bab9a",
+      "name": "a Milano",
+      "category": "Ristorante",
+      "score": 75,
+      "published": "2026-11-14",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-14T13:30:39+00:00",
+      "source": "MilanoLife",
+      "title": "Toyosu Market apre a Milano: il nuovo ristorante giapponese in Porta Ticinese - MilanoLife",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHQzZUgwLVdtdWlDR3BmSzNHMTNIX3pnSE81bWo0UEoxZHRNSHZnNEpXaVBkVEs4QTJPelFGVGlsLU5BX2JUdFlIOE5KYUV2UF8xV0hyUXhhNTFKRmJhV2NmOU9sU2FhQ3g1RVZRZ0RuMmJESTFlZUtQSndOdFR2anpNV3VqMkRIbHVuUTBpQTI5dE44T0hhZnBkZ2Q0dUdhdGgxSy1YWGRwZ2FoX3BsdTZRWDM1OFc1YTBPMA?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que a Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "c32de142e9195680",
@@ -2244,6 +2324,48 @@
         "lenguaje de apertura inmediata"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "08303425bc5bcae4",
+      "name": "pizzeria romana di Jacopo Mercuro. Margherita a 9",
+      "category": "Ristorante",
+      "score": 58,
+      "published": "2026-11-04",
+      "article_age_days": 10,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-14T13:30:40+00:00",
+      "source": "Gambero Rosso",
+      "title": "A Milano apre la pizzeria romana di Jacopo Mercuro. Margherita a 9,50 euro e scontrino medio di 28 euro - Gambero Rosso",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVVJczZzVkQ4LWdhdldIb2x1a0dGTGR1cHV0WGN4SEJGMXFiODRmaU1GSzkwV2RrRnAwc3MyRG5QbVlsNEs0UkdVcUF6Z0JseWd1MVlFT2RlTk8wVmNhRUF4UHpVenZHOVlsVndQZEdFZHdHMFVtRlhMMWIzUWgtcTQ5MWM1Q1pvNkRHMDRoN1pyTlh1b3NENGN0QnFTWDFsenFuMUpRanVwM210N3dTYQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que pizzeria romana di Jacopo Mercuro. Margherita a 9 acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia de las últimas dos semanas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "noticia demasiado antigua",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "7d2277fb0e3f2be0",
