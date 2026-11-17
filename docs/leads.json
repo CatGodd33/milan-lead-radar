@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T00:48:06+00:00",
+  "updated_at": "2026-11-17T15:59:23+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -51,8 +51,8 @@
       "title": "Prima bottega no e low alcohol di Milano",
       "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
       "address": "Via Porro Lambertenghi, Milano",
-      "lat": 45.4891995,
-      "lon": 9.1864028,
+      "lat": 45.4891391,
+      "lon": 9.1868221,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -161,8 +161,8 @@
       "title": "I Fruttini arrivano a Milano",
       "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
       "address": "Via Mercato 30, Milano",
-      "lat": 45.4707892,
-      "lon": 9.1844383,
+      "lat": 45.4715215,
+      "lon": 9.1840827,
       "emails": [],
       "phones": [],
       "instagram": [
@@ -528,6 +528,43 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "a6aad4cc98dcab3a",
+      "name": "Foto",
+      "category": "Otro negocio local",
+      "score": 75,
+      "published": "2026-11-17",
+      "article_age_days": 0,
+      "opening_age_days": 0,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-11-17T15:59:22+00:00",
+      "source": "Il Giornale di Vicenza",
+      "title": "Foto: Mattarella a Milano per l'inaugurazione dell'anno accademico della Cattolica - Il Giornale di Vicenza",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWk1rYXBLdkVjRDFOQzM4Z3lzaVV0RktGOUIyUW1ZamR3Q2NkTE9IcXpmZ3locGRYRy1GclkzdGk2WDFfbDFLX0Q1cXh5T3BsUng0bFVjTHk5bHBxX3NoSzgwQ0RqdFY5MjVXanM4NkE0Z180MWxzeGFQV3pQQzRxUXdBYVpfRm9LVXI1Z2plX1g1R2hHWlE3V2l0UmlNVW5fXzRPeVRLSUlUWUVNSk55c3pienBrckZEZHR6ODNPb1JFTk9SRnZad25GdHhUZjF5S2c?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Foto es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "3b272b6c803bab9a",
@@ -2623,6 +2660,45 @@
       "status": "Nuevo"
     },
     {
+      "id": "cf5e802651138c68",
+      "name": "Una apertura in discesa per Milano e le altre Borse eur",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-17",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-17T15:59:22+00:00",
+      "source": "Corriere dell'Economia",
+      "title": "Una apertura in discesa per Milano e le altre Borse europee (-0,59%) 17.11.2026) - Corriere dell'Economia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLTRjRFhyYzdPT0kxOGQ2d3lmUjZUV29QVjgyX1BLaGJIdHljbjVRS0FGdEhrLXBOUzFSeHdRaE1uX2RDOVhhY1BsN1dsUVVmcDZTZzFyM3lxMm5CMTl6NWVuRk1scWFfQ3JDeUQ1NjdueUxHQnVvaUZJdDB0NmFwSi1HY3paZ0hlVnB0RUlWXzZQZUREWXl2XzFwUTd2TU9HNkx4b2pUOXlaWXh1S1dYa2liQXNwZ0RkZURlSU9JOA?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Una apertura in discesa per Milano e le altre Borse eur es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
       "id": "870ae0554fda2607",
       "name": "Apertura di settimana debole a Milano. Al giro di boa l",
       "category": "Otro negocio local",
@@ -4265,6 +4341,46 @@
         "señal explícita de apertura"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "a6c6be82ee2a6436",
+      "name": "primo posto dove fare colazione australiana",
+      "category": "Otro negocio local",
+      "score": 48,
+      "published": "2026-11-11",
+      "article_age_days": 6,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-17T15:59:23+00:00",
+      "source": "MilanoToday",
+      "title": "Torna in Italia dopo 26 anni e apre a Milano il primo posto dove fare colazione australiana - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPYjJROWRQaFlIVVRzMHM5dXluY25UcXpIaVUxdnZIdExuOWd5UDhTWUUzWHJmaE4tei1wRVNYVzFEc19NSW04UWhwQzUwWF9aVmpITTdDSUJ1QnVJM2VHLUFmbERWOGtIRkhsMmI0MnItbHNGSnZOMnBR?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que primo posto dove fare colazione australiana es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en los últimos 5 días",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "noticia demasiado antigua",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "b8cabfe1c2f5820e",
