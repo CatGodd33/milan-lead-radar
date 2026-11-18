@@ -158,8 +158,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4712024,
-    "lon": 9.1842134,
+    "lat": 45.4715215,
+    "lon": 9.1840827,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -508,8 +508,8 @@
     "title": "Nuova trattoria in Porta Romana",
     "url": "https://www.trattoriatina.it/",
     "address": "Via Altaguardia 16, Milano",
-    "lat": 45.4490086,
-    "lon": 9.2000489,
+    "lat": 45.4502387,
+    "lon": 9.1996247,
     "emails": [
       "info@trattoriatina.it"
     ],
@@ -525,6 +525,46 @@
       "todavía construyendo reputación pública"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "b91f20c6b5d3005a",
+    "name": "nuova pizzeria a Milano",
+    "category": "Ristorante",
+    "score": 75,
+    "published": "2026-11-18",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-18T15:39:28+00:00",
+    "source": "Gambero Rosso",
+    "title": "Mocho apre una nuova pizzeria a Milano: \"Questa roba vi piace, ma non lo sapete\" - Gambero Rosso",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY214LXVVSUV3ejh3VTFOMDE1R0lSNVVQSWVjVWdWc0plRnBkbHVVV1d2dzktTUNXYW5lZklVY21FMUhzVmVhdTBmVnVseFlmMzJiaU9mcW81a0p5aktOS1ZwYUZCRkJfNGVwVFZiZ1dsd3NyN1loNGVCRlNXLWxhVHFLMHM2UzN2cjQydUF2WV9IR3VvZ3NGYWdFeW1qbkJBWXAyRTh0V3ZvYVBCTU9id2d3?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que nuova pizzeria a Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
   },
   {
     "id": "a6aad4cc98dcab3a",
