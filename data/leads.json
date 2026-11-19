@@ -48,8 +48,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891391,
-    "lon": 9.1868221,
+    "lat": 45.4891995,
+    "lon": 9.1864028,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -158,8 +158,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4712024,
-    "lon": 9.1842134,
+    "lat": 45.4719812,
+    "lon": 9.1839534,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -508,8 +508,8 @@
     "title": "Nuova trattoria in Porta Romana",
     "url": "https://www.trattoriatina.it/",
     "address": "Via Altaguardia 16, Milano",
-    "lat": 45.4502387,
-    "lon": 9.1996247,
+    "lat": 45.4490086,
+    "lon": 9.2000489,
     "emails": [
       "info@trattoriatina.it"
     ],
@@ -2732,6 +2732,84 @@
       "sector ideal: bar / cafeteria"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "a561e9a943267c45",
+    "name": "due negozi tra Milano e Bagnolo Cremasco – LMF",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-11-19",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-19T23:35:21+00:00",
+    "source": "LaMiaFinanza",
+    "title": "MediaWorld apre due negozi tra Milano e Bagnolo Cremasco – LMF - LaMiaFinanza",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazA3Um9YR0pkVEVaUTJ0WmtUM2tCXzMxTGh3U1lfNlZIc1JxWlNaMHZZbk5JbWlQMmNYV2VPQmNUaE95Uk5kNFpNTjNKckE0bmJrdk9jWUE2SVNKcjg4NWVncE1ibjdGZDlhU3p3X0hlWlRGN1BTa2hWRDMzNTU2QTVGVzdmcml0MEVWa0cyTmNlRVBiVFpxNQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que due negozi tra Milano e Bagnolo Cremasco – LMF es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "8320ce4f3e320cbf",
+    "name": "Porta Nuova",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-11-19",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-19T23:35:21+00:00",
+    "source": "Gdoweek",
+    "title": "MediaWorld Smart apre a Milano Porta Nuova, primo negozio in centro - Gdoweek",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QRkUxTzhSRXAwV2F6cDYzVTVtbHYwZFhLaVZYSmhkNVFDaWJRbXA5UXNGeG05UE8yTnJzZHVsSG5WVXQyZWhiRllxd1RJdjVkYzU5OFlIUDRiQ0hHdGxyYng0WFlxcGRzZ2hF?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Porta Nuova es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "f27191d74bcc96ab",
