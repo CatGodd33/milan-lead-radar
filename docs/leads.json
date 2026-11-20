@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:35:21+00:00",
+  "updated_at": "2026-11-20T15:27:35+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -511,8 +511,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -1941,6 +1941,44 @@
       "status": "Nuevo"
     },
     {
+      "id": "890c4bccd2d492a9",
+      "name": "Foto",
+      "category": "Otro negocio local",
+      "score": 68,
+      "published": "2026-11-17",
+      "article_age_days": 3,
+      "opening_age_days": 3,
+      "opening_recency": "apertura asociada a la noticia reciente",
+      "opening_confidence": "media",
+      "found_at": "2026-11-20T15:27:35+00:00",
+      "source": "Bresciaoggi",
+      "title": "Foto: Mattarella a Milano per l'inaugurazione dell'anno accademico della Cattolica - Bresciaoggi",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVZPUGVXTGhsdzlfYzB4Ql9HMVV2Y0diMWlTeUY1ZkFMZlFjdWRjenI0NUg4aXFIb3dQYUdNNldkVUNqaXBBR0UtM05tUGdDdUlaOEtQbGRseTduNk1EVXd1T0RnOFJHa2NTbC10d2xzZFl6WVg0YzBNTnUtMklGVTVBRUZ4OTVWWnN6djFoU1E3VklwVldXRGhyWUJtOGRWelU0ak1ielhMZjM5VDRVeENsUGl0T09oZWhqS1BpaFRKNlNBMzZv?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que Foto es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en los últimos 5 días",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional",
+        "apertura asociada a la noticia reciente"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "sector sin encaje claro"
+      ]
+    },
+    {
       "id": "abca089b7f456e15",
       "name": "Ristorante Solferino a Milano aperto per tutto dicembre",
       "category": "Ristorante",
@@ -2800,6 +2838,45 @@
         "web profesional"
       ],
       "opener": "He visto que Porta Nuova es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "ec0cd94be487271c",
+      "name": "in piazza Gae Aulenti. Omnicanalità \"nativa\" su 300 mq",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-19",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-20T15:27:35+00:00",
+      "source": "iGizmo.it",
+      "title": "MediaWorld Smart apre in piazza Gae Aulenti. Omnicanalità \"nativa\" su 300 mq in centro a Milano - iGizmo.it",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HblFrVTBLWk1fMjJPdm1KNUhzckI3LTdUR3FVZ3V5V0xXWHlIWjdCMWdkSEs3T2RZQmxTS3FtWE5sZjVGTWN0TmI5b2ZxNkNrU2dnX3JzVFpsYUxrV181WWpud3F5dThRcUE?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que in piazza Gae Aulenti. Omnicanalità \"nativa\" su 300 mq es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "noticia publicada en las últimas 48 horas",
         "señal explícita de apertura",
