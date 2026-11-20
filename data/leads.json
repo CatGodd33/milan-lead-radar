@@ -527,6 +527,43 @@
     "status": "Nuevo"
   },
   {
+    "id": "6e4011a8335cadf8",
+    "name": "Inaugurazione de Il Panino Perfetto a Milano",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-20",
+    "article_age_days": 0,
+    "opening_age_days": 0,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-20T23:05:25+00:00",
+    "source": "Foodaffairs.it",
+    "title": "Inaugurazione de Il Panino Perfetto a Milano: 100 panini gratis e una 500 Abarth in palio - Foodaffairs.it",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmVKZnduWXZmanVMTGJPenNqdmdtOWUyWDRwb21vTWRlSHAyYWF4bHhldU13REhNMXpBRmQ4NG5vVzJqRzhGT00yVTFBMVZVZ0o1NXpXZ2Z3dmdsNWxjSE04aG5YaXhPVTlYcERZM1V2QWpxYU1hd1g3Q1VTTGFKVF82LUZVRmpsanN6WjU3VWJfYk16RzktT0EydlJNbkJNZ3hwVXVXaUczcTlUODJRYmJnX05yaHBPOVUtd0xvVmM4ZXRpRGc?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Inaugurazione de Il Panino Perfetto a Milano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
+  },
+  {
     "id": "b91f20c6b5d3005a",
     "name": "nuova pizzeria a Milano",
     "category": "Ristorante",
