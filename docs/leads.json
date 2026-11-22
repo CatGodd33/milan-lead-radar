@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:34:32+00:00",
+  "updated_at": "2026-11-22T22:28:19+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -259,6 +259,46 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "3670a5ad7886a0da",
+      "name": "prima pasticceria tradizionale di wagashi giapponese (c",
+      "category": "Bar / Cafeteria",
+      "score": 77,
+      "published": "2026-11-21",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-22T22:28:19+00:00",
+      "source": "MilanoToday",
+      "title": "Questa coppia apre a Milano la prima pasticceria tradizionale di wagashi giapponese (con anche tè e sushi) - MilanoToday",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEstOFBPS0Rnejl2U3JwcFZ5c2FMQVNoX3VRRHNxdDNiOUJ3UVFkSnd1U3JzUFpmbERCTUozNWw1aDdMN1Q3b2R4bTZBR0JtT1NqTzItNXNxcjM3NTlEX0VrcmswSGxKZmpHRWZOYV9yUXdFVGtIUk00NDVTVG9FaWZsb0F5SFZmUGpjVDRkMDlTS1NGbmtqTQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de prima pasticceria tradizionale di wagashi giapponese (c. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "31278d96d67a6fd9",
