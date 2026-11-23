@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:28:19+00:00",
+  "updated_at": "2026-11-23T18:07:52+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -136,8 +136,8 @@
       "title": "Nuova enoteca con piccola cucina",
       "url": "https://vivimilano.corriere.it/locali/enoteche-locali/burbero/",
       "address": "Via Pioppette 3, Milano",
-      "lat": 45.4576103,
-      "lon": 9.1815916,
+      "lat": 45.4579831,
+      "lon": 9.1813918,
       "emails": [],
       "phones": [],
       "instagram": [],
@@ -551,8 +551,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4490086,
-      "lon": 9.2000489,
+      "lat": 45.4502387,
+      "lon": 9.1996247,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -568,6 +568,126 @@
         "todavía construyendo reputación pública"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "fd45ed8ab658273c",
+      "name": "Milano Enrico Bartolini lascia il Mudec Lo chef plurist",
+      "category": "Ristorante",
+      "score": 75,
+      "published": "2026-11-23",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-23T18:07:52+00:00",
+      "source": "Zazoom Social News",
+      "title": "Milano Enrico Bartolini lascia il Mudec Lo chef pluristellato trasloca il ristorante allo Sdraiato di CityLife | apertura nel 2027 - Zazoom Social News",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORTQzZHV2TExBTHNSWXA5enZWRW9Cb3NzTXl4MlJ4aWxORTMwbmwtRzN0MTFWaENuMjY2S1BxTVBCSjg5YnlNOVBWR0JiMUN6OFhkT21WYVJYZmVvVVVNcXF6SWhwaEVRU2xRRkZXNml0S2ptVVpiVzNJTE5rMHRYbGhkV1EweEVDVG9oRjJZNGt1RHZ4cHBEcnMzQ1ZGZkpLU2VlTDY2RU9TYnF4N1lzS0tHc0JSb0ZvRXNmdWUyel9Nd1d6bG5rWmVqVFVydzZtbC1rZWcwcDNZOW1UWU5pUTFuQ0lna0J2bkRObm1NYi1JOE5zcnlENVpYRVJzbmdW?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que Milano Enrico Bartolini lascia il Mudec Lo chef plurist acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
+    },
+    {
+      "id": "4d094f2a39c47acc",
+      "name": "Milano",
+      "category": "Ristorante",
+      "score": 75,
+      "published": "2026-11-23",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-23T18:07:52+00:00",
+      "source": "Corriere Milano",
+      "title": "Milano, Enrico Bartolini lascia il Mudec. Lo chef pluristellato trasloca il ristorante allo «Sdraiato» di CityLife: apertura nel 2027 - Corriere Milano",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOLXlIc3dfRTZfSHVyWkl0TjRDYWpXX3dXQTVUMzI0TGtvRTVyb0hvekRZdk8tQ1hzSFpLSW1XWGF0bFB6eDBWVjJCb2hHWFRSVmZBMmRzenlSdTRyTnN5dzJXVzBNYmpKQ3VKNlpacE5rOVQyREE0LVppSG5YeXRXelczM3VnRlZraEFiU0RDbWQyZFRWSHVLS09ud3dwRzVFZXIwQk1vRGtESi1VLXlHbUNMMjdzVnNXSlZ0R2lESmhlLTVnX2w4YWRSVzNOWG9BQ2dhQXhuZ29oTUtqNnBQSUJJeUpmWE5weHVhT3NLaGJyNlNqUWh4THFLUVFaTWR4VTlIczNxbk5lclBqakYtQUZlV1pYWDktb1BfMGV3MnZhTml6YXk0REF6bGw0SWphWlRmYTB3VnlDQ1FRZlFFbVRnZXBudno4S2RqclYzQ3JTUXfSAdMCQVVfeXFMTi15SHN3X0U2X0h1clpJdE40Q2FqV193V0E1VDMyNExrb0U1cm9Ib3pEWXZPLUNYc0haS0ltV1hhdGxQengwVlYyQm9oR1hUUlZmQTJkc3p5UnU0ck5zeXcyV1cwTWJqSkN1SjZaWnBOazlUMkRBNC1aaUhuWHl0V3pXMzN1Z0ZWa2hBYlNEQ21kMmRUVkh1S0tPbnd3cEc1RWVyMEJNb0RrREotVS15R21DTDI3c1ZzV0pWdEdpREpoZS01Z19sOGFkUlczTlhvQUNnYUF4bmdvaE1LajZwUElCSXlKZlhOcHh1YU9zS2hicjZTalFoeExxS1FRWk1keFU5SHMzcW5OZXJQampGLUFGZVdaWFg5LW9QXzBldzJ2YU5pemF5NERBemxsNElqYVpUZmEwd1Z5Q0NRUWZRRW1UZ2VwbnZ6OEtkanJWM0NyU1F3?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
+    },
+    {
+      "id": "f26557f8fca6cbfa",
+      "name": "Milano",
+      "category": "Ristorante",
+      "score": 75,
+      "published": "2026-11-23",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-23T18:07:52+00:00",
+      "source": "Corriere Milano",
+      "title": "Milano, Enrico Bartolini lascia il Mudec. Lo chef pluristellato trasloca il ristorante allo «Sdraiato» di CityLife: apertura nel 2027 - Corriere Milano",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOcWF1REp3OHQyeE9LVW9wZlBRSXRhT0lHSktINmU5MWlGU01yVlJXdEpyRnlGa0RNb1B2cjU4d25zcm5Xd1dfekxNcEFmVldmSkZldlJfZ2tSbk0xUkpsbUg4MERfeDZzM1U2d0pnOTU4UnFtWk9aZHY0RTdRVFdLNFBnTkFTR2Vpb0luektaa0kwVFhrWEJCbVpqTW9pWmJJVUJqWWd1R1RKZnl5c0o0Tk5yUFV3ZnBNVzNCYTFvWFV1R3lreWhDdFYtTjlDSXhfWkFBdjZUTDlLUUJIRFZKN0ZRT2Rzb0NXcEpWakV2TU5jYkgxcDFSYm9SSkIwLWZZWnl6TTdMM3I1X3RzTG56bVNYQ2plOHVvR0xNYl9sYy1LVHFmR0I1c1lkM3NWdV9fckIxc2hEX2sxMmthMkxYTFh4Q1ZlYlhsbHlLVWlR0gHTAkFVX3lxTE4teUhzd19FNl9IdXJaSXRONENhaldfd1dBNVQzMjRMa29FNXJvSG96RFl2Ty1DWHNIWktJbVdYYXRsUHp4MFZWMkJvaEdYVFJWZkEyZHN6eVJ1NHJOc3l3MldXME1iakpDdUo2WlpwTms5VDJEQTQtWmlIblh5dFd6VzMzdWdGVmtoQWJTRENtZDJkVFZIdUtLT253d3BHNUVlcjBCTW9Ea0RKLVUteUdtQ0wyN3NWc1dKVnRHaURKaGUtNWdfbDhhZFJXM05Yb0FDZ2FBeG5nb2hNS2o2cFBJQkl5SmZYTnB4dWFPc0toYnI2U2pRaHhMcUtRUVpNZHhVOUhzM3FuTmVyUGpqRi1BRmVXWlhYOS1vUF8wZXcydmFOaXpheTREQXpsbDRJamFaVGZhMHdWeUNDUVFmUUVtVGdlcG52ejhLZGpyVjNDclNRdw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "menú QR + fidelización digital",
+      "matched_services": [
+        "menú QR",
+        "web y reservas",
+        "fidelización digital"
+      ],
+      "opener": "He visto que Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para menú QR",
+        "encaje comercial alto para web y reservas"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "6e4011a8335cadf8",
@@ -2850,6 +2970,45 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "1768addce0caf744",
+      "name": "locali sempre più costosi",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-23",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-23T18:07:52+00:00",
+      "source": "Gambero Rosso",
+      "title": "Milano apre locali sempre più costosi, ma perde quelli dove si faceva tardi. Che fine ha fatto la notte? - Gambero Rosso",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHJTRzFzWmVKWkwxeWp0Qll1aEs3TVdmbUJhNUxSelVCM1hxejVnX210bHhIVHBHTWJta3VwQ1NYN2M4Tlc2b0pFSnlJbkhWa1VxYXIxV0FaQ2xROFlJRjNiS3RHTUZvM3RFSmNQREVBNlJ1bmhTNkJrUlMyLTUyZ1YzY0t6NmlraFdIQnJPTUlHcnlYZTlXUTdMRQ?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que locali sempre più costosi es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
     },
     {
       "id": "6db54278a5aceb46",
