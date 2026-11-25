@@ -48,8 +48,8 @@
     "title": "Prima bottega no e low alcohol di Milano",
     "url": "https://www.gamberorosso.it/notizie/rubriche/nuove-aperture/a-milano-ha-aperto-unenoteca-dove-il-vino-non-e-protagonista-e-si-beve-quasi-tutto-senza-alcol/",
     "address": "Via Porro Lambertenghi, Milano",
-    "lat": 45.4891995,
-    "lon": 9.1864028,
+    "lat": 45.4891391,
+    "lon": 9.1868221,
     "emails": [],
     "phones": [],
     "instagram": [],
@@ -158,8 +158,8 @@
     "title": "I Fruttini arrivano a Milano",
     "url": "https://www.ilgiornale.it/news/retrogusto/i-fruttini-di-lancusi-arrivano-milano-matteo-2534845.html",
     "address": "Via Mercato 30, Milano",
-    "lat": 45.4719812,
-    "lon": 9.1839534,
+    "lat": 45.4712024,
+    "lon": 9.1842134,
     "emails": [],
     "phones": [],
     "instagram": [
@@ -565,6 +565,43 @@
       "todavía construyendo reputación pública"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "e8cae2f3d873d818",
+    "name": "LegisLAB con MediaWorld nella nuova apertura di Piazza",
+    "category": "Otro negocio local",
+    "score": 75,
+    "published": "2026-11-25",
+    "article_age_days": 0,
+    "opening_age_days": 0,
+    "opening_recency": "apertura asociada a la noticia reciente",
+    "opening_confidence": "media",
+    "found_at": "2026-11-25T17:13:51+00:00",
+    "source": "TopLegal",
+    "title": "LegisLAB con MediaWorld nella nuova apertura di Piazza Gae Aulenti a Milano - TopLegal",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSU9XVjBJMlFFN3E1WEN4eFY2eHJiQmhzckNGam14Y2pnelBLLUJlZlBOa1J4NmZNbWhKRktUZk5qRm01WFYyZlEtT2pJMVd1Wnl4T2tIRFpqdjhuaDJRWUk1MVNYZ3luTmZlT19wYmVzTUQ2NGFOTDg0SDk0WExSMWRkWlpkS2lQREE?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que LegisLAB con MediaWorld nella nuova apertura di Piazza es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional",
+      "apertura asociada a la noticia reciente"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "sector sin encaje claro"
+    ]
   },
   {
     "id": "06e90ffa335a75c3",
@@ -2748,6 +2785,48 @@
       "lenguaje de apertura inmediata"
     ],
     "status": "Nuevo"
+  },
+  {
+    "id": "7818cd3067e6cd4d",
+    "name": "pizzeria anti fighetta",
+    "category": "Ristorante",
+    "score": 58,
+    "published": "2026-11-15",
+    "article_age_days": 10,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-25T17:13:51+00:00",
+    "source": "CiboToday",
+    "title": "A Milano apre una pizzeria anti fighetta: pizza al metro e pizzette dalla finestra per aperitivo - CiboToday",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WeFZjZXRhNTMzN3lIbXNibGlfQmVPT0dSM05vZno1bEk1a3ppakZZUnBQTjVDYjNUcVFkcF85VlYteGZGZHZ3bmhsMlpIVVlJUmEyaEZMdjFDX1llSl9oT0lQVjhQeTJobGNxRTMxNUFPWTRqWUlGaWRodnZPUdIBfkFVX3lxTE9lMUlkSk9LdzV3WEhxUUVoQ1V4ZkFGLXFxMlNfOG9ZUTM0X1IyTmxiYkxyMC1MdlRMaHZPWGlxYnY3Z0NwalgtV3g4TVVTWGlHb2hGYU4xT0UyV1lpcXdNcmg3ZXRLWHl4SDJaMVI4RkE2Nm9XWWh0NmZMcHpiZw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que pizzeria anti fighetta acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia de las últimas dos semanas",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "noticia demasiado antigua",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
   },
   {
     "id": "08303425bc5bcae4",
