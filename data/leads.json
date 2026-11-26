@@ -3088,6 +3088,45 @@
     "status": "Nuevo"
   },
   {
+    "id": "b68df871f0bbba13",
+    "name": "a Cesano Boscone",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-11-26",
+    "article_age_days": 0,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-26T16:53:42+00:00",
+    "source": "Milanofree.it",
+    "title": "Euronics Bruno apre a Cesano Boscone: nuovo store a Le Porte di Milano - Milanofree.it",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeE9YbWwwMjBQQU1tb3pVdklZWU1fdGxPQWw4YnJ5YnNsZXRNVzN5Vkl3cloxZm90SGdQcjBvQm1HU1c4Q1llTlhFbWFVeGRuR2ZFREZEdEZDWG80ODhsNmNVZVZJY0NBdDg3VkwxSExlZGdWN1ItTWJXekFlZjg3VW8zNDJxcmVldjZvM3hpT19qamFBX05SZDZXaHotcU43RWttSEljT1pfUXBJb2pIZ3Y4Nmw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que a Cesano Boscone es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
     "id": "1768addce0caf744",
     "name": "locali sempre più costosi",
     "category": "Otro negocio local",
