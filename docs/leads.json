@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:00:29+00:00",
+  "updated_at": "2026-11-27T16:39:56+00:00",
   "city": "Milano",
   "leads": [
     {
@@ -259,6 +259,46 @@
         "sector ideal: bar / cafeteria"
       ],
       "status": "Nuevo"
+    },
+    {
+      "id": "c8070a1cff1b5739",
+      "name": "L’ultimo wine bar di Milano l’hanno aperto due cugini e",
+      "category": "Bar / Cafeteria",
+      "score": 77,
+      "published": "2026-11-27",
+      "article_age_days": 0,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-27T16:39:54+00:00",
+      "source": "CiboToday",
+      "title": "L’ultimo wine bar di Milano l’hanno aperto due cugini eredi di una dinastia di commercianti vinicoli - CiboToday",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWHFscFQzOXZpTkdQMDVoNXVhdkIzUERRU1pZMzBhNU1wMmdBcEJaeWc5TE9BWHZsNFU5b3A5eVhKWWQyc1Y3NWlhLXFNV0JsWUIxT1RGWEhDMWg1RFc1TVdzaFplcFlDakNweVhVYTk1eUJ2VVdGdWR1dFZwd9IBfkFVX3lxTE9IZTExYnNQaGI0aFRGZFVRLVFRSm1xRGlJZ0NIbmpSQjVwM1ppSDZBVGwydHpsbjB1QzlwamhuMUJzQkswWTVXRjFBWGIxeDg4MnM3V05nUk40TVZMYTYyT2ZwWXJLb2VwaWtnLVNUbE03U1ZqT2hJZlZPbDN3dw?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "Milano",
+      "lat": null,
+      "lon": null,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "tarjeta de sellos digital + menú QR",
+      "matched_services": [
+        "tarjeta de sellos digital",
+        "menú QR",
+        "web"
+      ],
+      "opener": "He visto la apertura de L’ultimo wine bar di Milano l’hanno aperto due cugini e. Vuestro tipo de negocio es perfecto para una tarjeta digital de cafés o consumiciones que convierta visitas ocasionales en clientes habituales.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para tarjeta de sellos digital",
+        "encaje comercial alto para menú QR"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil"
+      ]
     },
     {
       "id": "3670a5ad7886a0da",
@@ -551,8 +591,8 @@
       "title": "Nuova trattoria in Porta Romana",
       "url": "https://www.trattoriatina.it/",
       "address": "Via Altaguardia 16, Milano",
-      "lat": 45.4502387,
-      "lon": 9.1996247,
+      "lat": 45.4490086,
+      "lon": 9.2000489,
       "emails": [
         "info@trattoriatina.it"
       ],
@@ -3235,6 +3275,45 @@
         "web profesional"
       ],
       "opener": "He visto que Legami ha aperto un maxi negozio in centro a MIlano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+      "reasons": [
+        "noticia publicada en las últimas 48 horas",
+        "señal explícita de apertura",
+        "encaje comercial alto para web profesional"
+      ],
+      "status": "Nuevo",
+      "alert_eligible": false,
+      "alert_notes": [
+        "puntuación comercial insuficiente",
+        "fecha de apertura no confirmada",
+        "evidencia de apertura débil",
+        "sector sin encaje claro"
+      ]
+    },
+    {
+      "id": "7a6e3ecf76ca63e7",
+      "name": "in piazza San Babila a Milano il negozio più grande al",
+      "category": "Otro negocio local",
+      "score": 55,
+      "published": "2026-11-26",
+      "article_age_days": 1,
+      "opening_age_days": null,
+      "opening_recency": "fecha de apertura no confirmada",
+      "opening_confidence": "baja",
+      "found_at": "2026-11-27T16:39:56+00:00",
+      "source": "Il Sole 24 ORE",
+      "title": "Legami apre in piazza San Babila a Milano il negozio più grande al mondo - Il Sole 24 ORE",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHZScHJZQkM0ZjBEalVTSFQ4QXgxcDlfM0R4elFiS1lFWW40RU8wQ194VUZUaGtYUEtLMTVmdFZpYlNZTDh2Rm1odGl6Y0hwdmlZR1FfWXJRal9pcjhabzd0cGlHWGU3cDRyeGpxYkgzZnV4OEZOaXh3c0todjFBQWlCamNjLTYxTklydWpwX2FkOWF1cGNidEdtY0RGMGh5cjBGZg?oc=5&hl=it&gl=IT&ceid=IT:it",
+      "address": "piazza San Babila a",
+      "lat": 45.466374,
+      "lon": 9.1977066,
+      "emails": [],
+      "phones": [],
+      "instagram": [],
+      "recommended_service": "web rápida + fidelización digital",
+      "matched_services": [
+        "web profesional"
+      ],
+      "opener": "He visto que in piazza San Babila a Milano il negozio più grande al es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
       "reasons": [
         "noticia publicada en las últimas 48 horas",
         "señal explícita de apertura",
