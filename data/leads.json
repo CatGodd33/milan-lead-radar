@@ -567,6 +567,46 @@
     "status": "Nuevo"
   },
   {
+    "id": "37af2bfc37e165c0",
+    "name": "seconda sede che fa brunch)",
+    "category": "Ristorante",
+    "score": 75,
+    "published": "2026-11-26",
+    "article_age_days": 1,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-27T01:00:29+00:00",
+    "source": "CiboToday",
+    "title": "A Milano esiste una pizzeria che sembra un bistrot parigino (ora apre una seconda sede che fa brunch) - CiboToday",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc05uaml3Nk9BOEFTSEd4ZGc1SlM3T1V1aTdOa0tNSDNoZXhka1laMmtjanRNa0JDRE93U2FiYXc2WG03MVFqektoRjhiLUljQ0Z3VXc0Qll2NGYtVUZjWFFkRENyb19rSklFcm9aUVNXWktOdW83bTA1c3c0bG5HVTVsX2JNVW13NnVKbnNON2hkS3FuSTVYctIBmAFBVV95cUxOVmtBb25DZ1BUREwwbElTTUd5SWMyZFN5NngxWDRRalJubVlQVU9wWXcybU1vQ0lqU3V6bGdjZWZlcTNCQndwdTlUQnNXcGRkUUxJcFBPc2wyZmVselJWbnZQYXJEbldHRER3eDdXS2NEN05laU9xdnAtR1ZXSnpScndtcWQ1N3NuRGlqZ0JTdnVBMFlhN2hrYw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que seconda sede che fa brunch) acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
+  },
+  {
     "id": "e8cae2f3d873d818",
     "name": "LegisLAB con MediaWorld nella nuova apertura di Piazza",
     "category": "Otro negocio local",
@@ -2212,6 +2252,47 @@
     "status": "Nuevo"
   },
   {
+    "id": "f141d4c15d408351",
+    "name": "Milano",
+    "category": "Ristorante",
+    "score": 68,
+    "published": "2026-11-23",
+    "article_age_days": 4,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-27T01:00:29+00:00",
+    "source": "Eventi e News",
+    "title": "Milano, Enrico Bartolini lascia il Mudec. Lo chef pluristellato trasloca il ristorante allo «Sdraiato» di CityLife: apertura nel 2027 - Eventi e News",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOem00NjVielZILWVKb2hBa2ZxbDhjMUE4cnUtbzd6bkVzUGV4bWN4V0pvR25PS0ZiRjZaLTBpRXRzT3FYVHBtTWZ3YTFzZkRDSEtqRDdNSjc0MkVZV1c5UmZtNXljZFFLMHIzQ3ltMGNWWlNtN05ScnVEWGY1RWNla25Sam9wYlNiYTBscjF6SVJxdHVVamRCQkhnTG5DSXJBQkZtbi04VFVfemNzelFPRThWNlZxQ1pnZ3l6dlpuLXRJVE4wTHhzSlNBSmVSQzFITHpJbWoycl9yWmZvTTRWUEl0cU1jNkU?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "menú QR + fidelización digital",
+    "matched_services": [
+      "menú QR",
+      "web y reservas",
+      "fidelización digital"
+    ],
+    "opener": "He visto que Milano acaba de abrir. Puedo prepararos un menú QR muy fácil de actualizar y una tarjeta digital para que quienes os prueben vuelvan pronto.",
+    "reasons": [
+      "noticia publicada en los últimos 5 días",
+      "señal explícita de apertura",
+      "encaje comercial alto para menú QR",
+      "encaje comercial alto para web y reservas"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil"
+    ]
+  },
+  {
     "id": "890c4bccd2d492a9",
     "name": "Foto",
     "category": "Otro negocio local",
@@ -3112,6 +3193,45 @@
       "web profesional"
     ],
     "opener": "He visto que a Cesano Boscone es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
+    "reasons": [
+      "noticia publicada en las últimas 48 horas",
+      "señal explícita de apertura",
+      "encaje comercial alto para web profesional"
+    ],
+    "status": "Nuevo",
+    "alert_eligible": false,
+    "alert_notes": [
+      "puntuación comercial insuficiente",
+      "fecha de apertura no confirmada",
+      "evidencia de apertura débil",
+      "sector sin encaje claro"
+    ]
+  },
+  {
+    "id": "71ca1ee0a4872a1d",
+    "name": "Legami ha aperto un maxi negozio in centro a MIlano",
+    "category": "Otro negocio local",
+    "score": 55,
+    "published": "2026-11-26",
+    "article_age_days": 1,
+    "opening_age_days": null,
+    "opening_recency": "fecha de apertura no confirmada",
+    "opening_confidence": "baja",
+    "found_at": "2026-11-27T01:00:29+00:00",
+    "source": "MilanoToday",
+    "title": "Legami ha aperto un maxi negozio in centro a MIlano - MilanoToday",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBLXRHSUc5NHhoS2RHOHF1RHJycXc3Mm1mUVFBazVweVJXVlhoWmlKcHZUYVFORXBISlF0VFRqRHVyV3dCT2dvMTRsdWFZZFc0aHpxbHRyaWswc0gwWWJROWF5NjBsRFl1UzhKakVPYkJhUlc5Q2xOTUpHaw?oc=5&hl=it&gl=IT&ceid=IT:it",
+    "address": "Milano",
+    "lat": null,
+    "lon": null,
+    "emails": [],
+    "phones": [],
+    "instagram": [],
+    "recommended_service": "web rápida + fidelización digital",
+    "matched_services": [
+      "web profesional"
+    ],
+    "opener": "He visto que Legami ha aperto un maxi negozio in centro a MIlano es una actividad nueva en Milán. He preparado una idea concreta para ayudaros a captar y hacer volver clientes desde las primeras semanas.",
     "reasons": [
       "noticia publicada en las últimas 48 horas",
       "señal explícita de apertura",
